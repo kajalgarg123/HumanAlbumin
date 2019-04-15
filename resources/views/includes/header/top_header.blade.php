@@ -13,12 +13,7 @@
 						<a class="language" href="#"><i class="fa fa-language" aria-hidden="true"></i>
 							<select title="" class="selectpicker">
 								<option><i class="fa fa-language" aria-hidden="true"></i>UK English</option>
-								<option>Canada</option>
-								<option>India</option>
-								<option>New Zealand</option>
-								<option>Singapore</option>
-								<option>South Africa</option>
-								<option>United Kingdom</option>
+								<option>Arabic</option>
 							</select>
 						</a>
 					</div>

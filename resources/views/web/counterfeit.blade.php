@@ -45,7 +45,6 @@
 		<div class="slide-4">
 			<div class="container">
 				<div class="section-headline">
-					<h4>Slide 4</h4>
 					<p>Blackstone, EA. et al., Am Health Drug Benefits, 2014;7(4):216-224.</p>
 					<ul>
 						<li><i class="fa fa-circle" aria-hidden="true"></i>WHO-Substandard and Falsified (SF) Medical Products. <a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
@@ -81,7 +80,6 @@
 		<div class="slide-4">
 			<div class="container">
 				<div class="section-headline">
-					<h4>Slide 5</h4>
 					<p>Blackstone, EA. et al., Am Health Drug Benefits, 2014;7(4):216-224.</p>
 					<ul>
 						<li><i class="fa fa-circle" aria-hidden="true"></i>WHO-Substandard and Falsified (SF) Medical Products. <a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
@@ -118,7 +116,6 @@
 		<div class="slide-4">
 			<div class="container">
 				<div class="section-headline">
-					<h4>Slide 6</h4>
 					<p>Blackstone, EA. et al., Am Health Drug Benefits, 2014;7(4):216-224.</p>
 					<ul>
 						<li><i class="fa fa-circle" aria-hidden="true"></i>WHO-Substandard and Falsified (SF) Medical Products. <a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
@@ -166,7 +163,6 @@
 		<div class="slide-4">
 			<div class="container">
 				<div class="section-headline">
-					<h4>Slide 8</h4>
 					<ul>
 						<li><i class="fa fa-circle" aria-hidden="true"></i>WHO-Substandard and Falsified (SF) Medical Products.<a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
 						<li><i class="fa fa-circle" aria-hidden="true"></i>EMA-Falsified medicines.<a href="#">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp.</a>Accessed September 21, 2017.</li>
@@ -366,7 +362,6 @@
 	<div class="slide-4">
 		<div class="container">
 			<div class="section-headline">
-				<h4>Slide 27</h4>
 				<ul>
 					<li><i class="fa fa-circle" aria-hidden="true"></i>EPVC contact information: </li>
 					<li><i class="fa fa-circle" aria-hidden="true"></i>Address: Egyptian Pharmaceutical Center (EPVC), Egyptian Drug Authority (EDA), 21 </li>

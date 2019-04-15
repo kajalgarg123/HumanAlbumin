@@ -22,7 +22,6 @@
                                 </div>
                                 <!-- layer 2 -->
                                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                                    <a class="ready-btn right-btn page-scroll" href="#services">Try Human Albumin</a>
                                     <a class="ready-btn page-scroll" href="#about">Summary of Product Characteristics</a>
                                 </div>
                             </div>
@@ -141,11 +140,6 @@
                 <div class="team-top">
                     <div class="col-md-3 col-sm-3 col-xs-12">
                         <div class="single-team-member">
-                            <div class="team-img">
-                                <a href="#">
-                                    <img src="{{asset('img/team/img-1.jpg')}}" alt="">
-                                </a>
-                            </div>
                             <div class="team-content bg-yellow">
                                 <h4>Mike</h4>
                                 <p>Curabitur tempus dolor vel nibh 
@@ -157,11 +151,6 @@
                     <!-- End column -->
                     <div class="col-md-3 col-sm-3 col-xs-12">
                         <div class="single-team-member">
-                            <div class="team-img">
-                                <a href="#">
-                                    <img src="{{asset('img/team/img-2.jpg')}}" alt="">
-                                </a>
-                            </div>
                             <div class="team-content bg-color">
                                 <h4>Linda</h4>
                                  <p>Curabitur tempus dolor vel nibh 
@@ -173,11 +162,6 @@
                     <!-- End column -->
                     <div class="col-md-3 col-sm-3 col-xs-12">
                         <div class="single-team-member">
-                            <div class="team-img">
-                                <a href="#">
-                                    <img src="{{asset('img/team/img-3.jpg')}}" alt="">
-                                </a>
-                            </div>
                             <div class="team-content bg-yellow">
                                 <h4>Wayan</h4>
                                 <p>Curabitur tempus dolor vel nibh 
@@ -189,11 +173,6 @@
                     <!-- End column -->
                     <div class="col-md-3 col-sm-3 col-xs-12">
                         <div class="single-team-member">
-                            <div class="team-img">
-                                <a href="#">
-                                    <img src="{{asset('img/team/img-1.jpg')}}" alt="">
-                                </a>
-                            </div>
                             <div class="team-content bg-color">
                                 <h4>Adam</h4>
                                  <p>Curabitur tempus dolor vel nibh 

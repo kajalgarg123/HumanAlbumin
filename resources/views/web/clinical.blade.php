@@ -28,8 +28,8 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="section-headline">
-                        <h2>Albumin Has a High Clinical Value</h2>
-                        <h3>in a Variety of Conditions<span>1-3</span></h3>
+                        <h2>Albumin Has a High Clinical Value in a Variety of Conditions <span>1-3</span> </h2>
+                        
                         <p>The safety and effect of Human Albumin on improved outcomes in a variety of pathological conditions have been demonstrated in</p>
                     </div>
                 </div>

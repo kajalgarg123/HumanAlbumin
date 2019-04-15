@@ -15,65 +15,6 @@
         </div>
     </div>
 	<footer>
-			<div class="footer-area">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-6 col-sm-4 col-xs-12">
-							<div class="footer-content">
-								<div class="footer-head">
-									<h4>For US Audiences Shire</h4>
-									<div class="footer-head">
-										<p>TM or ® items and the associated logos are trademarks or registered trademarks of Shire or its affiliates.</p>
-										<p>Human Albumin is a registered trademark of Medimop Medical Projects, Ltd. in the United States and other jurisdictions.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<!-- end single footer -->
-						<div class="col-md-3 col-sm-4 col-xs-12">
-							<div class="footer-content">
-								<div class="footer-head">
-									<h4>Privacy Notice</h4>
-									<ul>
-										<li>
-											<a href="{{url('/about-us')}}">About Us</a>
-										</li>
-										<li>
-											<a href="#">Stories</a>
-										</li>
-										<li>
-											<a href="#">Leadership</a>
-										</li>
-										<li><a href="{{url('/team')}}">Team Advisor</a></li>
-										<li><a href="{{url('/faq')}}">FAQs</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<!-- end single footer -->
-						<div class="col-md-3 col-sm-4 col-xs-12">
-							<div class="footer-content">
-								<div class="footer-head">
-									<h4>Instagram</h4>
-									<ul>
-										<li>
-											<a href="{{url('/blog')}}">Blog</a>
-										</li>
-										<li>
-											<a href="{{url('/career')}}">Career</a>
-										</li>
-										<li>
-											<a href="#">Contact Us</a>
-										</li>
-										<li><a href="#">Donate</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
 			<div class="footer-area-bottom">
 				<div class="container">
 					<div class="row">

@@ -12,6 +12,7 @@
 */
 
 Route::post('comments', 'CommentController@storeComments')->name('add.comment')->middleware('web');
+Route::post('addresume' , 'ResumeController@store')->name('add.resume');
 
 Route::get('/', function () {
     return view('web.index');
