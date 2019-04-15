@@ -7,7 +7,7 @@
    <div id="home" class="slider-area">
         <div class="bend niceties preview-2">
             <div id="ensign-nivoslider" class="slides">
-                <img src="img/slider/slider1.jpg" alt="" title="#slider-direction-1" />
+                <img src="{{asset('img/slider/slider1.jpg')}}" alt="" title="#slider-direction-1" />
             </div>
 
             <!-- direction 1 -->
@@ -98,7 +98,7 @@
                     <div class="well-left">
                         <div class="single-well">
                             <a href="#">
-                                <img src="img/about/about-img.png" alt="">
+                                <img src="{{asset('img/about/about-img.png')}}" alt="">
                             </a>
                         </div>
                     </div>
@@ -143,7 +143,7 @@
                         <div class="single-team-member">
                             <div class="team-img">
                                 <a href="#">
-                                    <img src="img/team/img-1.jpg" alt="">
+                                    <img src="{{asset('img/team/img-1.jpg')}}" alt="">
                                 </a>
                             </div>
                             <div class="team-content bg-yellow">
@@ -159,7 +159,7 @@
                         <div class="single-team-member">
                             <div class="team-img">
                                 <a href="#">
-                                    <img src="img/team/img-2.jpg" alt="">
+                                    <img src="{{asset('img/team/img-2.jpg')}}" alt="">
                                 </a>
                             </div>
                             <div class="team-content bg-color">
@@ -175,7 +175,7 @@
                         <div class="single-team-member">
                             <div class="team-img">
                                 <a href="#">
-                                    <img src="img/team/img-3.jpg" alt="">
+                                    <img src="{{asset('img/team/img-3.jpg')}}" alt="">
                                 </a>
                             </div>
                             <div class="team-content bg-yellow">
@@ -191,7 +191,7 @@
                         <div class="single-team-member">
                             <div class="team-img">
                                 <a href="#">
-                                    <img src="img/team/img-1.jpg" alt="">
+                                    <img src="{{asset('img/team/img-1.jpg')}}" alt="">
                                 </a>
                             </div>
                             <div class="team-content bg-color">

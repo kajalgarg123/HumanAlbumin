@@ -19,7 +19,7 @@
 			<div class="row">
                 <div class="col-md-4">
 					<div class="team-advisor">
-						<img src="img/image.jpg">
+						<img src="{{asset('img/image.jpg')}}">
 						<h5>Ryan Bonnic</h5>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
 						standard dummy text ever since typesettin</p>
@@ -27,7 +27,7 @@
                 </div>
 				<div class="col-md-4">
 					<div class="team-advisor">
-						<img src="img/two.jpg">
+						<img src="{{asset('img/two.jpg')}}">
 						<h5>Ryan Bonnic</h5>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
 						standard dummy text ever since typesettin</p>
@@ -35,7 +35,7 @@
                 </div>
 				 <div class="col-md-4">
 					<div class="team-advisor">
-						<img src="img/image.jpg">
+						<img src="{{asset('img/image.jpg')}}">
 						<h5>Ryan Bonnic</h5>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
 						standard dummy text ever since typesettin</p>
@@ -43,7 +43,7 @@
                 </div>
 				<div class="col-md-4">
 					<div class="team-advisor">
-						<img src="img/two.jpg">
+						<img src="{{asset('img/two.jpg')}}">
 						<h5>Ryan Bonnic</h5>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
 						standard dummy text ever since typesettin</p>
@@ -51,7 +51,7 @@
                 </div>
 				 <div class="col-md-4">
 					<div class="team-advisor">
-						<img src="img/image.jpg">
+						<img src="{{asset('img/image.jpg')}}">
 						<h5>Ryan Bonnic</h5>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
 						standard dummy text ever since typesettin</p>
@@ -59,7 +59,7 @@
                 </div>
 				<div class="col-md-4">
 					<div class="team-advisor">
-						<img src="img/two.jpg">
+						<img src="{{asset('img/two.jpg')}}">
 						<h5>Ryan Bonnic</h5>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
 						standard dummy text ever since typesettin</p>
@@ -67,7 +67,7 @@
                 </div>
 				 <div class="col-md-4">
 					<div class="team-advisor">
-						<img src="img/image.jpg">
+						<img src="{{asset('img/image.jpg')}}">
 						<h5>Ryan Bonnic</h5>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
 						standard dummy text ever since typesettin</p>
@@ -75,7 +75,7 @@
                 </div>
 				<div class="col-md-4">
 					<div class="team-advisor">
-						<img src="img/two.jpg">
+						<img src="{{asset('img/two.jpg')}}">
 						<h5>Ryan Bonnic</h5>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
 						standard dummy text ever since typesettin</p>
@@ -83,7 +83,7 @@
                 </div>
 				 <div class="col-md-4">
 					<div class="team-advisor">
-						<img src="img/image.jpg">
+						<img src="{{asset('img/image.jpg')}}">
 						<h5>Ryan Bonnic</h5>
 						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
 						standard dummy text ever since typesettin</p>

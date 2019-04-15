@@ -43,7 +43,7 @@
                                     <span class="icon-bar"></span>
                                 </button>
                                 <a class="navbar-brand page-scroll sticky-logo" href="index.html">
-                                  <img src="img/logo.png">
+                                  <img src="{{asset('img/logo.png')}}">
                                 </a>
                             </div>
                           <div class="collapse navbar-collapse main-menu bs-main-navbar-collapse-1" id="navbar-main">
@@ -102,7 +102,7 @@
 			<div class="row">
 				<div class="col-md-6 col-sm-12 col-xs-12">
 					<div class="prodct-section-img">
-						<img src="img/prodct-img.jpg">
+						<img src="{{asset('img/prodct-img.jpg')}}">
 					</div>
 				</div>
 				<div class="col-md-6 col-sm-12 col-xs-12">
@@ -142,7 +142,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-12 col-xs-12">
-					<img src="img/sherlog.png">
+					<img src="{{asset('img/sherlog.png')}}">
 				</div>
                 <div class="col-md-9 col-sm-12 col-xs-12">
                     <div class="suscribe-text text-center">

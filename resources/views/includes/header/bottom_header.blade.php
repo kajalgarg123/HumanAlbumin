@@ -13,7 +13,7 @@
                                     <span class="icon-bar"></span>
                                 </button>
                                 <a class="navbar-brand page-scroll sticky-logo" href="{{url('/')}}">
-                                  <img src="img/logo.png">
+                                  <img src="{{asset('img/logo.png')}}">
                                 </a>
                             </div>
                            <div class="collapse navbar-collapse main-menu bs-main-navbar-collapse-1" id="navbar-main">

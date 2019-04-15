@@ -25,7 +25,7 @@
 				<div class="col-md-5 col-sm-12 col-xs-12">
 					<div class="single-blog-img">
 						<a href="#">
-							<img src="img/blog/1.jpg" alt="">
+							<img src="{{asset('img/blog/1.jpg')}}" alt="">
 						</a>
 					</div>
 				</div>

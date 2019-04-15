@@ -54,7 +54,7 @@ Route::get('career', function (){
 Auth::routes();
 
 // Route::get('/admin', 'HomeController@index')->name('admin');
-Route::get('/Admin', 'Admin\AdminController@index')->name('admin');
+Route::get('/admin-dashboard', 'Admin\AdminController@index')->name('dashboard');
 Route::group(['prefix' => 'admin',  'middleware' => 'auth'], function() {
     Route::get('/comments-list', 'CommentController@index' );
 });

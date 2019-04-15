@@ -37,7 +37,7 @@
 						
 					</div>
 					<div class="col-md-4 col-sm-12 col-xs-12">
-						<img src="img/bottle.jpg">
+						<img src="{{asset('img/bottle.jpg')}}">
 					</div>
 				</div>
 			</div>
@@ -60,7 +60,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4 col-sm-12 col-xs-12">
-						<img src="img/scope2.jpg">
+						<img src="{{asset('img/scope2.jpg')}}">
 					</div>
 					<div class="col-md-8 col-sm-12 col-xs-12">
 						<div class="section-headline">
@@ -110,7 +110,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-12 col-xs-12">
-						<img src="img/tricol.jpg">
+						<img src="{{asset('img/tricol.jpg')}}">
 					</div>
 				</div>
 			</div>
@@ -153,10 +153,10 @@
 						</ul>
 						<div class="all-logo">
 							<ul>
-								<li><img src="img/logo-1.jpg"></li>
-								<li><img src="img/logo-2.jpg"></li>
-								<li><img src="img/logo-3.jpg"></li>
-								<li><img src="img/logo-4.jpg"></li>
+								<li><img src="{{asset('img/logo-1.jpg')}}"></li>
+								<li><img src="{{asset('img/logo-2.jpg')}}"></li>
+								<li><img src="{{asset('img/logo-3.jpg')}}"></li>
+								<li><img src="{{asset('img/logo-4.jpg')}}"></li>
 							</ul>
 						</div>
 					</div>
@@ -194,13 +194,13 @@
 								<li><i class="fa fa-circle" aria-hidden="true"></i>No colour shift effect</li>
 								<li><i class="fa fa-circle" aria-hidden="true"></i>Irregular edge</li>	
 							</ul>
-							<p><img src="img/logo-quality.jpg"></p>
+							<p><img src="{{asset('img/logo-quality.jpg')}}"></p>
 						</div>
 						<div class="logo-quality-2">
 							<ul>
 								<li><i class="fa fa-circle" aria-hidden="true"></i>Logo outside the dedicated box</li>
 							</ul>
-							<p><img src="img/logo-quality-2.jpg"></p>
+							<p><img src="{{asset('img/logo-quality-2.jpg')}}"></p>
 						</div>
 					</div>
 					<div class="section-headline clinical-sec-8">
@@ -209,7 +209,7 @@
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Defects</li>
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Dirt</li>
 						</ul>
-						<p><img src="img/cartoon.jpg"></p>
+						<p><img src="{{asset('img/cartoon.jpg')}}"></p>
 					</div>
 				</div>
 				<div class="col-md-6 col-sm-12 col-xs-12">
@@ -219,14 +219,14 @@
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Perforated line instead of clear pre-cut</li>
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Flap design</li>
 						</ul>
-						<p><img src="img/lalblequality.jpg"></p>
+						<p><img src="{{asset('img/lalblequality.jpg')}}"></p>
 						<div class="section-headline clinical-sec-8">
 							<h2>Clue 4: Cap Quality</h2>
 							<ul>
 								<li><i class="fa fa-circle" aria-hidden="true"></i>Defects</li>
 								<li><i class="fa fa-circle" aria-hidden="true"></i>Damages</li>
 							</ul>
-							<p><img src="img/cap-quality.jpg"></p>
+							<p><img src="{{asset('img/cap-quality.jpg')}}"></p>
 						</div>
 					</div>
 				</div>
@@ -243,7 +243,7 @@
 					<div class="col-md-6 col-sm-12 col-xs-12">
 						<div class="section-headline">
 							<h2>Label: Data Matrix Code & GTIN number</h2>
-							<p><img src="img/data-matrix.jpg"></p>
+							<p><img src="{{asset('img/data-matrix.jpg')}}"></p>
 						</div>
 						<div class="section-headline clinical-sec-8">
 							<h2>Label: Subtle Use of Italic Font</h2>
@@ -252,14 +252,14 @@
 								<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i>“Italy” in the address of the manufacturing site</li>
 								<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i>“9” in the product code</li>
 							</ul>
-							<p><img src="img/subtle.jpg"></p>
+							<p><img src="{{asset('img/subtle.jpg')}}"></p>
 						</div>
 						<div class="section-headline clinical-sec-8">
 							<h2>Label: “Hanger” Shape Color </h2>
 							<ul>
 								<li><i class="fa fa-circle" aria-hidden="true"></i> 2 colours: red on the curved part, clear on the base</li>
 							</ul>
-							<p><img src="img/labale8.jpg"></p>
+							<p><img src="{{asset('img/labale8.jpg')}}"></p>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-12 col-xs-12">
@@ -268,7 +268,7 @@
 							<ul>
 								<li><i class="fa fa-circle" aria-hidden="true"></i>Color shifts from Green to Purple </li>
 							</ul>
-							<p><img src="img/color-log.jpg"></p>
+							<p><img src="{{asset('img/color-log.jpg')}}"></p>
 							<div class="section-headline clinical-sec-8">
 								<h2>Label: Peel-off Design</h2>
 								<ul>
@@ -276,7 +276,7 @@
 									<li><i class="fa fa-circle" aria-hidden="true"></i>Position of peel-off (no flaps for peeling off)</li>
 									<li><i class="fa fa-circle" aria-hidden="true"></i>Two specific plastic cuts under peel-off label</li>
 								</ul>
-								<p><img src="img/peel-design.jpg"></p>
+								<p><img src="{{asset('img/peel-design.jpg')}}"></p>
 							</div>
 						</div>
 					</div>
@@ -292,7 +292,7 @@
 							<ul>
 								<li><i class="fa fa-circle" aria-hidden="true"></i>Located on the top of the unit carton</li>
 							</ul>
-							<p><img src="img/baxter.jpg"></p>
+							<p><img src="{{asset('img/baxter.jpg')}}"></p>
 						</div>
 						<div class="section-headline clinical-sec-8">
 							<h2>Inspection Department Actions towards the Human Albumin Counterfeiting</h2>
@@ -305,7 +305,7 @@
 							<ul>
 								<li><i class="fa fa-circle" aria-hidden="true"></i> Varnish with Baxter logo on all four faces of unit carton (appears with light reflection)</li>
 							</ul>
-							<p><img src="img/baxter-2.jpg"></p>
+							<p><img src="{{asset('img/baxter-2.jpg')}}"></p>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-12 col-xs-12">
@@ -314,7 +314,7 @@
 							<ul>
 								<li><i class="fa fa-circle" aria-hidden="true"></i>Coin-reactive ink revealing the text: “Baxter Quality” when scratching the Security Area with a coin</li>
 							</ul>
-							<p><img src="img/securty-area.png"></p>
+							<p><img src="{{asset('img/securty-area.png')}}"></p>
 						</div>
 						<div class="section-headline clinical-sec-8">
 							<h2>Unit Carton: Subtle Micro Text</h2>
@@ -324,7 +324,7 @@
 								<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Around product code (internal top flap)</li>
 								<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i>On two different corners of unit carton</li>
 							</ul>
-							<p><img src="img/baxter-2.jpg"></p>
+							<p><img src="{{asset('img/baxter-2.jpg')}}"></p>
 						</div>
 					</div>
 				</div>

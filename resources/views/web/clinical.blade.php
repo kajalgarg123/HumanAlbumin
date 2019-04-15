@@ -38,7 +38,7 @@
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="well-left">
                         <div class="single-well">
-                            <img src="img/high-clinical-1.jpg" alt="">
+                            <img src="{{asset('img/high-clinical-1.jpg')}}" alt="">
                         </div>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
                     <div class="section-headline">
                         <h5>Albumin Provides an Equivalent Safety Profile to Saline<span>1</span></h5>
                         <p>All-cause mortality rates at the 28-day evaluation period</p>
-                        <img src="img/clinical-3.jpg">
+                        <img src="{{asset('img/clinical-3.jpg')}}">
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
@@ -143,10 +143,10 @@
                             <p>A systematic review of colloid data published between 1944 and 2002 found that albumin displayed more safety profile than HES.</p>
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12">
-                            <img src="img/circle-2.png">
+                            <img src="{{asset('img/circle-2.png')}}">
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12">
-                            <img src="img/circle-1.png">
+                            <img src="{{asset('img/circle-1.png')}}">
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <p>This was backed up by a later systematic review of colloid data published between 2002 and 2010.
@@ -174,7 +174,7 @@
                 <div class="col-md-12">
                     <div class="associated">
                         <div class="col-md-7 col-sm-6 col-xs-12">
-                            <img src="img/spasi-condition.png">
+                            <img src="{{asset('img/spasi-condition.png')}}">
                         </div>
                         <div class="col-md-5 col-sm-6 col-xs-12">
                             <div class="testimonials">
@@ -193,7 +193,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="img/second-graph.jpg">
+                        <img src="{{asset('img/second-graph.jpg')}}">
                     </div>
                     <div class="col-md-6">
                         <div class="reduced-mortality">
@@ -225,7 +225,7 @@
                         <div class="col-md-12 cirrhosis-circle">
                             <div class="circle-2">
                                 <span>Hypovolemin, & HypoalbuminemiaIf left untreated,hypovolemia willexacerbateleading to:</span>
-                                <img src="img/dotted.png">
+                                <img src="{{asset('img/dotted.png')}}">
                             </div>
                         </div>
                         <div class="col-md-4">
@@ -289,7 +289,7 @@
                 </div>
                 <div class="col-md-6">
                     <p>Mortality rates across 1 1 trials with mortality data comparing albumin with alternative treatments9 </p>
-                    <img src="img/second-graph.jpg">
+                    <img src="{{asset('img/second-graph.jpg')}}">
                 </div>
             </div>
         </div>
@@ -307,7 +307,7 @@
             <div class="row">
                 <div class="col-md-5">
                     <div class="enhance-img">
-                        <img src="img/all-circle.jpg">
+                        <img src="{{asset('img/all-circle.jpg')}}">
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -323,7 +323,7 @@
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <img src="img/drop-img.jpg">
+                    <img src="{{asset('img/drop-img.jpg')}}">
                 </div>
             </div>
             <div class="section-headline">
@@ -333,7 +333,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="surgery-graph-img">
-                        <img src="img/third-graph.jpg">
+                        <img src="{{asset('img/third-graph.jpg')}}">
                         <h4>Albumin Displays a More Favorable Safety Profile</h4>
                         <p>than Hydroxyethyl Starch (HES), in Cardiac Surgeries10</p>
                     </div>
@@ -363,7 +363,7 @@
             <p><strong>COMPARED TO STARCH SOLUTIONS<sup>13</sup></strong></p>
             <p>Pre- and post-surgical serum albumin concentrations</p>
             <p>Albumin Displays a More Favorable Safety Profile</p>
-            <img src="img/center-graph.jpg">
+            <img src="{{asset('img/center-graph.jpg')}}">
             <p>A randomized trial of 40 surgery patients compared pre- and post-surgical serum albumin concentrations in patients treated with starch and albumin.13</p>
         </div>
     </div>
@@ -504,7 +504,7 @@
                 <h5>Multiple Safety Manufacturing Steps</h5>
                 <p>Before Production <sup>21</sup></p>
                 <div class="img-baaner">
-                    <img src="img/banner-s.jpg">
+                    <img src="{{asset('img/banner-s.jpg')}}">
                 </div>
                 <div class="section-headline">
                     <h5>In Vitro Studies Demonstrate That the Manufacturing Process  for Human Albumin Provides Significant Viral Reduction<sup>11</sup></h5>
@@ -513,7 +513,7 @@
             <div class="row">
                 <div class="viral-reduction">
                     <div class="col-md-8">
-                        <img src="img/table-imgs.jpg">
+                        <img src="{{asset('img/table-imgs.jpg')}}">
                     </div>
                     <div class="col-md-4">
                         <p>N/D Not Determined bother albumin fractionation process steps (processing of cryo-poor plasma to Fraction l+ll+lll/ll+lll supernatant and processing of Fraction V suspension to Cuno 90LP filtrate) showed significant virus reduction capacity in in-vitro viral clearance studies. These process steps also contribute to the overall viral clearance robustness of the manufacturing process. However, since the mechanism of virus removal is similar to that of this particular process step, the viral inactivation data from other steps were not used in the calculation of the mean cumulative reduction factor. *-Recent scientific data suggest that the actual human parvovirus B19 (B19V) is far more effectively inactivated by pasteurization than indicated by model virus data
@@ -535,7 +535,7 @@
                         </p>
                     </div>
                     <div class="col-md-6">
-                        <img src="img/ppta.jpg">
+                        <img src="{{asset('img/ppta.jpg')}}">
                     </div>
                 </div>
             </div>

@@ -106,7 +106,7 @@
 					</div>
 			<div class="col-md-6 col-sm-12 col-xs-12">
 				<div class="spc-language">
-					<img src="img/table-images.jpg">
+					<img src="{{asset('img/table-images.jpg')}}">
 					<p>In cases of severe reactions, the infusion should be stopped and an appropriate treatment should be initiated. </p>
 					<p>In post-marketing surveillance the following adverse events have been reported. These events are listed by MedDRA System Organ Class, then by Preferred Term in order of severity. </p>
 					<p>Immune System Disorders: Anaphylactic reaction, Hypersensitivity/Allergic reactions </p>
@@ -137,7 +137,7 @@
 				<div class="spc-language">
 					<h4 class="spc-heading">6. PHARMACEUTICAL PARTICULARS </h4>
 					<strong>6.1 List of excipients </strong>
-					<p><img src="img/sodium.jpg"></p>
+					<p><img src="{{asset('img/sodium.jpg')}}"></p>
 					<strong>6.2 Incompatibilities </strong>
 					<p>Human albumin must not be mixed with other medicinal products (except the recommended diluents mentioned in section 6.6), whole blood and packed red cells. Further human albumin should not be mixed with protein hydro lysates (e.g. parenteral nutrition) or solutions containing alcohol since these combinations may cause the proteins to precipitate. </p>
 					<strong>6.3 Shelf life </strong>
@@ -260,7 +260,7 @@
 					</div>
 					<div class="col-md-6 col-sm-12 col-xs-12">
 						<div class="spc-language">
-							<p><img src="img/second-tablebanner.jpg"></p>
+							<p><img src="{{asset('img/second-tablebanner.jpg')}}"></p>
 							<p>En cas de réaction sévère, la perfusion doit être arrêtée et un traitement adapté doit être initié. </p>
 							<p>Durant la surveillance en post commercialisation les effets indésirables suivants ont été rapportés.</p>
 							<p>Ces effets indésirables sont présentés selon la classification système organeclasse MedDRA, puis par termes préférentiels par ordre de gravité. </p>
@@ -294,7 +294,7 @@
 						<div class="spc-language">
 							<h4 class="spc-heading">6. DONNEES PHARMACEUTIQUES</h4>
 							<strong>6.1. Liste des excipients </strong>
-							<p><img src="img/table-3images.jpg"></p>
+							<p><img src="{{asset('img/table-3images.jpg')}}"></p>
 							<strong>6.2. Incompatibilités </strong>
 							<p>L’albumine humaine ne doit pas être mélangée avec d’autres médicaments, (sauf les diluants recommandés mentionnés à l’article 6.6) avec du sang total ou des concentrés de globules rouges. De plus, l’albumine humaine ne doit pas être mélangée avec des hydrolysats de protéines (par exemple : nutrition parentérale) ou des solutions contenant de l’alcool car ces mélanges peuvent entrainer la précipitation des protéines. </p>
 							<strong>6.3. Durée de conservation </strong>
