@@ -13,7 +13,7 @@
     <link href="{{asset('lib/owlcarousel/owl.transitions.css')}}" rel="stylesheet">
     <link href="{{asset('lib/font-awesome/css/font-awesome.css')}}" rel="stylesheet">
     <link href="{{asset('lib/animate/animate.min.css')}}" rel="stylesheet">
-    <link href="{{asset('vvvlib/venobox/venobox.css')}}" rel="stylesheet">
+    <link href="{{asset('lib/venobox/venobox.css')}}" rel="stylesheet">
     <link href="{{asset('css/nivo-slider-theme.css')}}" rel="stylesheet">
     <link href="{{asset('css/style.css')}}" rel="stylesheet">
     <link href="{{asset('css/responsive.css')}}" rel="stylesheet">

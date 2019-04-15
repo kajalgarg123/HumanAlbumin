@@ -99,7 +99,7 @@
     <script src="{{asset('lib/nivo-slider/js/jquery.nivo.slider.js')}}" type="text/javascript"></script>
     <script src="{{asset('lib/appear/jquery.appear.js')}}"></script>
     <script src="{{asset('lib/isotope/isotope.pkgd.min.js')}}"></script>
-    <script src="{{asset('js/main.js"></script>
+    <script src="{{asset('js/main.js')}}"></script>
     <script>
         $('.collapse').on('shown.bs.collapse', function() {
             $(this).parent().find(".glyphicon-plus").removeClass("glyphicon-plus").addClass("glyphicon-minus");

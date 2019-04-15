@@ -21,7 +21,7 @@
           </a>
         </li>
         <li class="">
-          <a href="{{url('admin/comments')}}">
+          <a href="{{url('admin/comments-list')}}">
             <i class="fa fa-files-o"></i> <span>Comments</span>
             <span class="pull-right-container">
             </span>
