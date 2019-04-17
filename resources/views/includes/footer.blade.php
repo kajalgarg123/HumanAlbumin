@@ -15,6 +15,55 @@
         </div>
     </div>
 	<footer>
+            <div class="footer-area">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-4 col-xs-12">
+                            <div class="footer-content">
+                                <div class="footer-head">
+                                    <h4>For US Audiences Shire</h4>
+                                    <div class="footer-head">
+                                        <p>All rights reserved. SHIRE and the Shire Logo are registered trademarks of Shire Pharmaceutical Holdings Ireland Limited or its affiliates.</p>
+                                        <p>Human Albumin is a trademark of Baxter International Inc, a wholly owned, indirect subsidiary of Shire plc.</p>
+                                        <p>Shire is part of the Takeda group</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- end single footer -->
+                        <div class="col-md-3 col-sm-4 col-xs-12">
+                            <div class="footer-content">
+                                <div class="footer-head">
+                                    <h4>Contact Us:</h4>
+                                    <p>The Official registered Distributer for Baxter Human Albumin</p>
+
+                                    <p>Multipharma:</p>
+
+                                       <p>Tel: 0224182931</p> 
+                                        <p>Fax: 024141320</p>
+                                        <p>Hot Line:16300</p>
+                                        <p>Email : tender@multipharma-eg.com</p>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                         <div class="col-md-3 col-sm-4 col-xs-12">
+                            <div class="footer-content">
+                                <div class="footer-head">
+                                    <h4></h4>
+                                        <p>Bio Egypt:</p>
+
+                                        <p>Tel: 0223624442 - 0223624441</p>
+                                        <p>Email :info@bioegypt.net</p>
+                                    <a href="www.shire.com">www.shire.com</a>
+                                    <a href="www.takeda.com">www.takeda.com</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 			<div class="footer-area-bottom">
 				<div class="container">
 					<div class="row">
