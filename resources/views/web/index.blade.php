@@ -1,6 +1,7 @@
 @extends('layouts.web')
 
 @section('content')
+<?php use App\Http\Controllers\DataController; ?> 
 <div data-spy="scroll" data-target="#navbar">
 	
     <!-- Start Slider Area -->
@@ -138,50 +139,21 @@
             </div>
             <div class="row">
                 <div class="team-top">
+                    <?php $teams = DataController::getAllTeams(); ?>
+                    @foreach($teams as $team)
                     <div class="col-md-3 col-sm-3 col-xs-12">
                         <div class="single-team-member">
+                            @if($loop->iteration % 2 != 0)
                             <div class="team-content bg-yellow">
-                                <h4>Mike</h4>
-                                <p>Curabitur tempus dolor vel nibh 
-									hendrerit, a luctus ligul eget. 
-									Ut mattis vitae lorem vestibul.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End column -->
-                    <div class="col-md-3 col-sm-3 col-xs-12">
-                        <div class="single-team-member">
+                            @else
                             <div class="team-content bg-color">
-                                <h4>Linda</h4>
-                                 <p>Curabitur tempus dolor vel nibh 
-									hendrerit, a luctus ligul eget. 
-									Ut mattis vitae lorem vestibul.</p>
+                            @endif
+                                <h4>{{ $team->name }}</h4>
+                                <p>{{ $team->description }}</p>
                             </div>
                         </div>
                     </div>
-                    <!-- End column -->
-                    <div class="col-md-3 col-sm-3 col-xs-12">
-                        <div class="single-team-member">
-                            <div class="team-content bg-yellow">
-                                <h4>Wayan</h4>
-                                <p>Curabitur tempus dolor vel nibh 
-									hendrerit, a luctus ligul eget. 
-									Ut mattis vitae lorem vestibul.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End column -->
-                    <div class="col-md-3 col-sm-3 col-xs-12">
-                        <div class="single-team-member">
-                            <div class="team-content bg-color">
-                                <h4>Adam</h4>
-                                 <p>Curabitur tempus dolor vel nibh 
-									hendrerit, a luctus ligul eget. 
-									Ut mattis vitae lorem vestibul.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End column -->
+                    @endforeach
                 </div>
             </div>
         </div>
