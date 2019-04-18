@@ -11,6 +11,10 @@ p {
     font-size: 16px;
     line-height: 32px;
 }
+.highlight {
+    color : #fcb34c;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Raleway', sans-serif;
     margin: 0 0 15px;
@@ -1015,6 +1019,18 @@ SCP LANGUAGE
 	position: relative;
 	margin-top: 90px;
 	
+}
+.counterfeit-banner {
+    background-image: url(../img/counterfeit-banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 100%;
+    padding: 50px;
+    position: relative;
+    margin-top: 90px;
+    
 }
 
 .scp-text h1 {text-transform: uppercase;

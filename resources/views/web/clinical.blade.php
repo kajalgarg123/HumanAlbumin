@@ -18,7 +18,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p>CLINICAL VALUE OF HUMAN ALBUMIN</p>
+                    <h2 class="highlight">CLINICAL VALUE OF HUMAN ALBUMIN</h2>
                 </div>
             </div>
         </div>
@@ -158,7 +158,7 @@
     </div>
     <div class="strip">
         <div class="container">
-            <p>USES OF HUMAN ALBUMIN 1. SEPSIS</p>
+            <h2 class="highlight">USES OF HUMAN ALBUMIN 1. SEPSIS</h2>
         </div>
     </div>
     <div id="about" class="area-padding">
@@ -179,7 +179,12 @@
                         <div class="col-md-5 col-sm-6 col-xs-12">
                             <div class="testimonials">
                                 <i class="fa fa-quote-left" aria-hidden="true"></i>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting dummy text of the printing and typesetting dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                                <p>Hypovolemia is treated with
+                                    large volumes of resuscitation
+                                    fluids, making safety and value
+                                    of volume expanders a critical
+                                    concern for these acutely ill
+                                    patients. 5</p>
                                 <i class="fa fa-quote-right" aria-hidden="true"></i>
                             </div>
                         </div>
@@ -206,7 +211,7 @@
         </div>
         <div class="strip">
             <div class="container">
-                <p>USES OF HUMAN ALBUMIN 2. LIVER DISEASE</p>
+                <h2 class="highlight">USES OF HUMAN ALBUMIN 2. LIVER DISEASE</h2>
             </div>
         </div>
         <div class="container">
@@ -296,7 +301,7 @@
     </div>
     <div class="strip">
         <div class="container">
-            <p>USES OF HUMAN ALBUMIN 3. CARDIAC SURGERY</p>
+            <h2 class="highlight">USES OF HUMAN ALBUMIN 3. CARDIAC SURGERY</h2>
         </div>
     </div>
     <div class="area-padding">
@@ -350,26 +355,21 @@
     </div>
     <div class="strip">
         <div class="container">
-            <p>USES OF HUMAN ALBUMIN 4. GENERAL SURGERY</p>
+            <h2 class="highlight">USES OF HUMAN ALBUMIN 4. GENERAL SURGERY</h2>
         </div>
     </div>
     <div class="container">
-        <div class="section-headline">
-            <h5>Albumin Reduces Mortality Odds by 25%</h5>
-            <p>Compared with Non-protein Colloid Use<sup>10</sup></p>
-        </div>
         <div class="serum-graph">
             <h4>STABLE SERUM ALBUMIN LEVELS</h4>
             <p><strong>COMPARED TO STARCH SOLUTIONS<sup>13</sup></strong></p>
             <p>Pre- and post-surgical serum albumin concentrations</p>
-            <p>Albumin Displays a More Favorable Safety Profile</p>
             <img src="{{asset('img/center-graph.jpg')}}">
             <p>A randomized trial of 40 surgery patients compared pre- and post-surgical serum albumin concentrations in patients treated with starch and albumin.13</p>
         </div>
     </div>
     <div class="strip">
         <div class="container">
-            <p>USES OF HUMAN ALBUMIN 5. INTENSIVE CARE</p>
+            <h2 class="highlight">USES OF HUMAN ALBUMIN 5. INTENSIVE CARE</h2>
         </div>
     </div>
     <div class="table-concentration">
@@ -420,7 +420,7 @@
     </div>
     <div class="strip">
         <div class="container">
-            <p>USES OF HUMAN ALBUMIN 6. CRITICALLY ILL PATIENTS</p>
+            <h2 class="highlight">USES OF HUMAN ALBUMIN 6. CRITICALLY ILL PATIENTS</h2>
         </div>
     </div>
     <div class="table-concentration">
@@ -495,7 +495,7 @@
     </div>
     <div class="strip">
         <div class="container">
-            <p>SAFETY & QUALITY OF HUMAN ALBUMIN®</p>
+            <h2 class="highlight">SAFETY & QUALITY OF HUMAN ALBUMIN®</h2>
         </div>
     </div>
     <div class="table-concentration">
@@ -543,14 +543,47 @@
     </div>
     <div class="strip">
         <div class="container">
-            <p>Abbreviated Prescribing Information</p>
+            <h2 class="highlight">Abbreviated Prescribing Information</h2>
         </div>
     </div>
     <div class="container">
         <div class="preference">
             <p><strong>(Before prescribing please consult the full Summary of Product Characteristics (SmPC).)</strong></p>
-            <p>Active Ingredient: Human Albumin Indication: Restoration and maintenance of circulating blood volume where volume deficiency has been demonstrated, and use of a colloid is appropriate. The choice of albumin rather than artificial colloid will depend on the clinical situation of the individual patient, based on oflcial recommendations. Dosage and Administration: The concentration of the albumin preparation, dosage and the infusion rate should be adjusted to the patient’s individual requirements. The dose required depends on the size of the patient, the severity of trauma or illness and on continuing fluid and protein losses. Measures of adequacy of circulating volume and not plasma albumin levels should be used to determine the dose required. If human albumin is to be administered, haemodynamic performance</p>
-            <a class="read-btn" href="#">Read More</a>
+            <p>Active Ingredient: Human Albumin Indication: Restoration and maintenance of circulating blood volume where volume deficiency has been demonstrated, and use of a colloid is appropriate. The
+            choice of albumin rather than artificial colloid will depend on the clinical situation of the individual patient, based on official recommendations. Dosage and Administration: The concentration of the
+            albumin preparation, dosage and the infusion rate should be adjusted to the patient’s individual requirements. The dose required depends on the size of the patient, the severity of trauma or illness
+            and on continuing fluid and protein losses. Measures of adequacy of circulating volume and not plasma albumin levels should be used to determine the dose required. If human albumin is to be
+            administered, haemodynamic performance should be monitored regularly; this may include; arterial blood pressure and pulse rate; central venous pressure; pulmonary artery wedge pressure; urine
+            output; electrolyte concentration; haematocrit/haemoglobin; clinical signs of cardiac/respiratory failure (e.g. dyspnoea); clinical signs of increasing intra-cranial pressure (e.g. headache). Method of
+            Administration: Human Albumin 200 g/l can be directly administered by the intravenous route, or it can also be diluted in an isotonic solution (e.g. 5% glucose or 0.9% sodium chloride). The infusion
+            rate should be adjusted according to the individual circumstances and the indication. In plasma exchange the infusion rate should be adjusted to the rate of removal. Contraindications:
+            Hypersensitivity to albumin preparations or to any of the excipients. Warnings and Precautions: Hypersensitivity: Suspicion of allergic or anaphylactic type reactions requires immediate
+            discontinuation of the injection. In case of shock, standard medical treatment for shock should be implemented. Hypervolaemia or Haemodilution: Albumin should be used with caution in conditions
+            where hypervolaemia and its consequences or haemodilution could represent a special risk for the patient. Examples of such conditions are; decompensated cardiac insufficiency; hypertension;
+            oesophageal varices; pulmonary oedema; haemorrhagic diathesis; severe anaemia; renal and post-renal anuria. Hypervolaemia may occur if the dosage and rate of infusion are not adjusted to the
+            patient’s circulatory situation. At the first clinical signs of cardiovascular overload (headache, dyspnoea, jugular vein congestion), or increased blood pressure, raised venous pressure and pulmonary
+            oedema, the infusion is to be stopped immediately. Circulatory Overload and Hyperhydration: The colloid-osmotic effect of human albumin 200 g/l is approximately four times that of blood plasma.
+            Therefore, when concentrated albumin is administered, care must be taken to assure adequate hydration of the patient. Patients should be monitored carefully to guard against circulatory overload
+            and hyperhydration. Electrolyte Balance: 200 g/l – 250 g/l Human albumin solutions are relatively low in electrolytes compared to the 40 – 50 g/l human albumin solutions. When albumin is given, the
+            electrolyte status of the patient should be monitored and appropriate steps taken to restore or maintain the electrolyte balance. Sodium Content: Human Albumin 200g/l contains 130-160 mmol/l
+            sodium. This is to be taken into consideration by patients on a controlled sodium diet. Haemolysis: Albumin solutions must not be diluted with water for injections as this may cause haemolysis in
+            recipients. Coagulation: If comparatively large volumes are to be replaced, controls of coagulation and haematocrit are necessary. Care must be taken to ensure adequate substitution of other blood
+            constituents (coagulation factors, electrolytes, platelets and erythrocytes). Transmissible agents: Despite standard measures to prevent infections resulting from the use of medicinal products prepared
+            from human blood or plasma, when they are administered, the possibility of transmitting infectious agents cannot be totally excluded. This also applies to unknown or emerging viruses and other
+            pathogens. There are no reports of virus transmissions with albumin manufactured to European Pharmacopoeia specifications by established processes. It is strongly recommended that every time
+            that Human Albumin 200 g/l is administered to a patient, the name and batch number of the product are recorded in order to maintain a link between the patient and the batch of the product.
+            Interactions: No specific interactions of Human Albumin with other medicinal products are known. Fertility, pregnancy and lactation: The safety of Human Albumin 200 g/l for use in human
+            pregnancy has not been established in controlled clinical trials. However, clinical experience with albumin suggests that no harmful effects on the course of pregnancy, or on the foetus and the neonate
+            are to be expected. The effects of human albumin on fertility have not been established in controlled clinical trials. Driving: No effects on ability to drive and use machines have been observed.
+            Undesirable Effects:Rare Adverse Events (ARs) included: Nausea, flushing, skin rash, fever. Very Rare ARs included: anaphylactic shock. Overdose: Hypervolaemia may occur if the dosage and infusion
+            rate are too high. At the first clinical signs of cardiovascular overload (headache, dyspnoea, jugular vein congestion), or increased blood pressure, raised central venous pressure and pulmonary
+            oedema, the infusion should be stopped immediately and the patient’s haemodynamic parameters carefully monitored. Date of Revision: May 2016. Name and Address of MA Holder: Baxter AG
+            Vienna</p>
+            <p>Name and Address of MA Holder:
+                Baxter AG Vienna
+                Further information is available on request.
+                Suspected adverse events should be reported to Shire at:
+                drugsafety@shire.com</p>
             <div class="cunsult">
                 <h4>REFERENCES:</h4>
                 <p>1. The SAFE Study Investigators. A Comparison of Albumin and Saline for Fluid Resuscitation in the Intensive Care Unit. (2004). New England Journal of Medicine, 2004(350), pp.2247-2256. </p>
@@ -558,7 +591,28 @@
                 </p>
                 <p>3. Vincent, J., Navickis, R. and Wilkes, M. (2004). Morbidity in hospitalized patients receiving human albumin: A meta-analysis of randomized, controlled trials. Critical Care Medicine, 32(10), pp.2029-2038. Barron, M., Wilkes, M. and Navickis, R. (2004). A Systematic Review of the Comparative Safety of Colloids. Archives of Surgery. 139(5), pp. 552-563.S.
                 </p>
-                <a class="read-btn" href="#">Read More</a>
+                <p>4. Barron, M., Wilkes, M. and Navickis, R. (2004). A Systematic Review of the Comparative Safety of Colloids. Archives of Surgery, 139(5), pp. 552-563.5.</p>
+                <p>5. Wiedermann, C. (2008). Systematic review of randomized clinical trials on the use of hydroxyethyl starch for fluid management in sepsis. BMC Emergency Medicine, 8(1).</p>
+                <p>6. Finfer, S., McEvoy, S., Bellomo, R., McArthur, C., Myburgh, J. and Norton, R. (2011). Impact of albumin compared to saline on organ function and mortality of patients with severe sepsis. Intensive Care Medicine,
+                37(1), pp.86-96.</p>
+                <p>7. Stern, J. (2017). Pathogen Safety - Plasma Protein Therapeutics Association (PPTA). [online] Pptaglobal.org. Available at: http://www.pptaglobal.org/about-us/current-members [Accessed 10 Jul. 2017].</p>
+                <p>8. Bernardi, M., Ricci, C. and Zaccherini, G. (2014). Role of Human Albumin in the Management of Complications of Liver Cirrhosis. Journal of Clinical and Experimental Hepatology, 4(4), pp.302-311.</p>
+                <p>9. Bernardi, M., Caraceni, P., Navickis, R. and Wilkes, M. (2012). Albumin infusion in patients undergoing large-volume paracentesis: A meta-analysis of randomized trials. Hepatology, 55(4), pp.1172-1181.</p>
+                <p>10. Sedrakyan, A., Gondek, K., Paltiel, D. and Elefteriades, J. (2003). Volume Expansion With Albumin Decreases Mortality After Coronary Artery Bypass Graft Surgerya. Chest, 123(6), pp.1853-1857.</p>
+                <p>11. Flexbumin 25% Albumin (Human) [package insert]. Westlake Village, CA: Shire plc; 2009.</p>
+                <p>12. Buminate 5% [Albumin (Human)] [package insert]. Westlake Village, CA: Shire plc; 2009.</p>
+                <p>13. Reine, P., Kongsgaard, U., Andersen, A., Thøgersen, A. and Olsen, H. (2008). Infusion of albumin attenuates changes in serum protein binding of drugs in surgical patients compared with volume replacement with HAES. Acta Anaesthesiologica Scandinavica, 52(3), pp.406-412.</p>
+                <p>14. Jacob, M., Chappell, D., Conzen, P., Wilkes, M., Becker, B. and Rehm, M. (2008). Small-volume resuscitation with hyperoncotic albumin: a systematic review of randomized clinical trials. Critical Care, 12(2), p.R34.</p>
+                <p>15. Vincent, J., Dubois, M., Navickis, R. and Wilkes, M. (2003). Hypoalbuminemia in Acute Illness: Is There a Rationale for Intervention? Annals of Surgery, 237(3), pp.319-334.</p>
+                <p>16. Liumbruno G, Bennardello F, Lattanzio A, Piccoli P, as Italian Society of Transfusion Medicine and Immunohaematology (SIMTI) Working Party G. (2009). Recommendations for the use of albumin and immunoglobulins.Blood Transfusion. 7(3), pp. 216-234.</p>
+                <p>17. Russell, J., Navickis, R. and Wilkes, M. (2004). Albumin versus crystalloid for pump priming in cardiac surgery: Meta-analysis of controlled trials. Journal of Cardiothoracic and Vascular Anesthesia, 18(4), pp.429-437.</p>
+                <p>18. Luciolli P. Albumin: Volume Replacement by a Drug. Rome, Italy: AIM Group; 2010.</p>
+                <p>19. Shin DH, Moon GJ, Bang OY. (2007). Albumin therapy in acute stroke patients. Neurology, 254(7), pp.870-878.</p>
+                <p>20. Ginsberg, M., Palesch, Y., Martin, R., Hill, M., Moy, C., Waldman, B., Yeatts, S., Tamariz, D. and Ryckborst, K. (2010). The Albumin in Acute Stroke (ALIAS) Multicenter Clinical Trial: Safety Analysis of Part 1 and Rationale and Design of Part 2. Stroke, 42(1), pp.119-127.</p>
+                <p>21. FLEXBUMIN 25% PI. August 2013.</p>
+                <p>22. Menger, A. (n.d.). Current Members - Plasma Protein Therapeutics Association (PPTA). [online] Pptaglobal.org. Available at: http://www.pptaglobal.org/membership/current-members [Accessed 10 Jul. 2017].</p>
+                <p>23. Menger, A. (2017). QSEAL - Plasma Protein Therapeutics Association (PPTA). [online] Pptaglobal.org. Available at: http://www.pptaglobal.org/safety-quality/standards/qseal [Accessed 10 Jul. 2017].</p>
+
             </div>
         </div>
     </div>

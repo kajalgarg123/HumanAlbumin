@@ -3,7 +3,7 @@
 @section('content')
 <div data-spy="scroll" data-target="#navbar">
     <div class="main-clinical-1">
-		<div class="scp-banner">
+		<div class="counterfeit-banner">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
@@ -16,7 +16,7 @@
 		</div>
 		<div class="strip">
 			<div class="container">
-			   <p>COUNTERFEIT DRUGS ARE A POTENTIALLY DEADLY PROBLEM</p>   
+			   <h2 class="highlight">COUNTERFEIT DRUGS ARE A POTENTIALLY DEADLY PROBLEM</h2>   
 			</div>
 		</div>
 		<div class="area-padding clinical-section-1">
@@ -46,12 +46,12 @@
 			<div class="container">
 				<div class="section-headline">
 					<p>Blackstone, EA. et al., Am Health Drug Benefits, 2014;7(4):216-224.</p>
-					<ul>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>WHO-Substandard and Falsified (SF) Medical Products. <a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>EMA-Falsified medicines.<a href="#">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp. </a>Accessed September 21, 2017.</li>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>Correct active ingredient but wrong proportions</li>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>FDA-Counterfeit Medicine.<a href="#">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017.</li>
-					</ul>
+					<ol>
+						<li>WHO-Substandard and Falsified (SF) Medical Products. <a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
+						<li>EMA-Falsified medicines.<a href="#">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp. </a>Accessed September 21, 2017.</li>
+						<li>Correct active ingredient but wrong proportions</li>
+						<li>FDA-Counterfeit Medicine.<a href="#">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017.</li>
+					</ol>
 				</div>
 			</div>
 		</div>
@@ -81,12 +81,12 @@
 			<div class="container">
 				<div class="section-headline">
 					<p>Blackstone, EA. et al., Am Health Drug Benefits, 2014;7(4):216-224.</p>
-					<ul>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>WHO-Substandard and Falsified (SF) Medical Products. <a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>EMA-Falsified medicines.<a href="#">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp. </a>Accessed September 21, 2017.</li>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>Correct active ingredient but wrong proportions</li>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>FDA-Counterfeit Medicine.<a href="#">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017.</li>
-					</ul>
+					<ol>
+						<li>WHO-Substandard and Falsified (SF) Medical Products. <a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
+						<li>EMA-Falsified medicines.<a href="#">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp. </a>Accessed September 21, 2017.</li>
+						<li>Correct active ingredient but wrong proportions</li>
+						<li>FDA-Counterfeit Medicine.<a href="#">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017.</li>
+					</ol>
 				</div>
 			</div>
 		</div>
@@ -117,10 +117,10 @@
 			<div class="container">
 				<div class="section-headline">
 					<p>Blackstone, EA. et al., Am Health Drug Benefits, 2014;7(4):216-224.</p>
-					<ul>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>WHO-Substandard and Falsified (SF) Medical Products. <a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>FDA-Counterfeit Medicine.<a href="#">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017.</li>
-					</ul>
+					<ol>
+						<li>WHO-Substandard and Falsified (SF) Medical Products. <a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
+						<li>FDA-Counterfeit Medicine.<a href="#">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017.</li>
+					</ol>
 				</div>
 			</div>
 		</div>
@@ -163,21 +163,21 @@
 		<div class="slide-4">
 			<div class="container">
 				<div class="section-headline">
-					<ul>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>WHO-Substandard and Falsified (SF) Medical Products.<a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>EMA-Falsified medicines.<a href="#">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp.</a>Accessed September 21, 2017.</li>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>FDA-Counterfeit Medicine. <a href="#">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017</li>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>EPVC.<a href="#">http://www.epvc.gov.eg/ http://www.epvc.gov.eg/ </a>Accessed November 1st ,2017.. </li>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>WHO-Substandard and Falsified (SF) Medical Products.<a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>EMA-Falsified medicines. <a href="#">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp.</a>Accessed September 21, 2017.</li>
-						<li><i class="fa fa-circle" aria-hidden="true"></i>FDA-Counterfeit Medicine.<a href="#">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm. </a>Accessed September 21, 2017.</li>
-					</ul>
+					<ol>
+						<li>WHO-Substandard and Falsified (SF) Medical Products.<a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
+						<li>EMA-Falsified medicines.<a href="#">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp.</a>Accessed September 21, 2017.</li>
+						<li>FDA-Counterfeit Medicine. <a href="#">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017</li>
+						<li>EPVC.<a href="#">http://www.epvc.gov.eg/ http://www.epvc.gov.eg/ </a>Accessed November 1st ,2017.. </li>
+						<li>WHO-Substandard and Falsified (SF) Medical Products.<a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
+						<li>EMA-Falsified medicines. <a href="#">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp.</a>Accessed September 21, 2017.</li>
+						<li>FDA-Counterfeit Medicine.<a href="#">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm. </a>Accessed September 21, 2017.</li>
+					</ol>
 				</div>
 			</div>
 		</div>
 		<div class="strip">
 			<div class="container">
-			   <p>An main of Counterfeit Drug: Baxter Human Albumin, Egypt</p>   
+			   <h2 class="highlight">An main of Counterfeit Drug: Baxter Human Albumin, Egypt</h2>   
 			</div>
 		</div>
 		<div class="area-padding clinical-section-1">
@@ -230,7 +230,7 @@
 		</div>
 		<div class="strip">
 			<div class="container">
-			   <p>An main of Counterfeit Drug: Baxter Human Albumin, Egypt</p>   
+			   <h2 class="highlight">An main of Counterfeit Drug: Baxter Human Albumin, Egypt</h2>   
 			</div>
 		</div>
 		<div class="area-padding clinical-section-1">

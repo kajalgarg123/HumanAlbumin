@@ -18,7 +18,7 @@
                             <div class="slider-content">
                                 <!-- layer 1 -->
                                 <div class="layer-1-1 hidden-xs wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                                    <h2 class="title1">Lorem Ipsum is simply dummy <br> text of the printing and<br>typesetting industry. <br></h2>
+                                    <h2 class="title1">Better Health,<br> Brighter Future</h2>
                                 </div>
                                 <!-- layer 2 -->
                                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
