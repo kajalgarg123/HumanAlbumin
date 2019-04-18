@@ -21,7 +21,6 @@
                         <div class="col-md-6 col-sm-4 col-xs-12">
                             <div class="footer-content">
                                 <div class="footer-head">
-                                    <h4>For US Audiences Shire</h4>
                                     <div class="footer-head">
                                         <p>All rights reserved. SHIRE and the Shire Logo are registered trademarks of Shire Pharmaceutical Holdings Ireland Limited or its affiliates.</p>
                                         <p>Human Albumin is a trademark of Baxter International Inc, a wholly owned, indirect subsidiary of Shire plc.</p>
