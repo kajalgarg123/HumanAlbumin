@@ -45,3 +45,31 @@
         <!-- header-area end -->
     </header>
     <!-- header end -->
+    <script src="{{asset('lib/jquery/jquery.min.js')}}"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            var isshow = localStorage.getItem('isshow');
+                if (isshow == null) {
+                     setTimeout(function(){
+                         swal({
+                              title: "I verify that I am a HealthCare Professional",
+                              icon: "info",
+                              buttons: true,
+                              buttons: ["No", "Yes"],
+                              closeOnClickOutside: false,
+                            })
+                            .then((yes) => {
+                              if (yes) {
+                                localStorage.setItem('isshow', 1);
+                                return true;
+                                
+                              } else {
+                                window.location.replace('blank');
+                              } 
+                            });
+                       },3000); // 5000 to load it after 5 seconds from page load
+                }
+          
+        });
+    </script>
