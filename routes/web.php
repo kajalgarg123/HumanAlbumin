@@ -14,43 +14,16 @@
 Route::post('comments', 'CommentController@storeComments')->name('add.comment')->middleware('web');
 Route::post('addresume' , 'ResumeController@store')->name('add.resume');
 
-Route::get('/', function () {
-    return view('web.index');
-});
-
-Route::get('/about-us' , function (){
-	return view('web.about-us');
-});
-
-Route::get('clinical' , function (){
-	return view('web.clinical');
-});
-
-Route::get('counterfeit' , function (){
-	return view('web.counterfeit');
-} );
-
-Route::get('spc-language', function (){
-	return view('web.spc-language');
-});
-
-Route::get('team', function (){
-	return view('web.team');
-});
-
-Route::get('faq', function (){
-	return view('web.faq');
-});
-
-Route::get('blog', function (){
-	return view('web.blog');
-});
-
-Route::get('career', function (){
-	return view('web.carrer');
-});
-
-
+Route::view('/' , 'web.index');
+Route::view('about-us' , 'web.about-us');
+Route::view('clinical' , 'web.clinical');
+Route::view('counterfeit' , 'web.counterfeit');
+Route::view('spc-language' , 'web.spc-language');
+Route::view('team' , 'web.team');
+Route::view('faq' , 'web.faq');
+Route::view('blog' , 'web.blog');
+Route::view('career' , 'web.carrer');
+Route::view('blank' , 'web.blank');
 
 Auth::routes();
 
