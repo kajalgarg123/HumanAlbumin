@@ -44,9 +44,9 @@
 		</div>
 		<div class="slide-4">
 			<div class="container">
-				<div class="section-headline">
+				<div class="section-headline references">
 					<p>Blackstone, EA. et al., Am Health Drug Benefits, 2014;7(4):216-224.</p>
-					<ol>
+					<ol class="references">
 						<li>WHO-Substandard and Falsified (SF) Medical Products. <a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
 						<li>EMA-Falsified medicines.<a href="#">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp. </a>Accessed September 21, 2017.</li>
 						<li>Correct active ingredient but wrong proportions</li>
@@ -81,7 +81,7 @@
 			<div class="container">
 				<div class="section-headline">
 					<p>Blackstone, EA. et al., Am Health Drug Benefits, 2014;7(4):216-224.</p>
-					<ol>
+					<ol class="references">
 						<li>WHO-Substandard and Falsified (SF) Medical Products. <a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
 						<li>EMA-Falsified medicines.<a href="#">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp. </a>Accessed September 21, 2017.</li>
 						<li>Correct active ingredient but wrong proportions</li>
@@ -117,7 +117,7 @@
 			<div class="container">
 				<div class="section-headline">
 					<p>Blackstone, EA. et al., Am Health Drug Benefits, 2014;7(4):216-224.</p>
-					<ol>
+					<ol class="references">
 						<li>WHO-Substandard and Falsified (SF) Medical Products. <a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
 						<li>FDA-Counterfeit Medicine.<a href="#">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017.</li>
 					</ol>
@@ -163,7 +163,7 @@
 		<div class="slide-4">
 			<div class="container">
 				<div class="section-headline">
-					<ol>
+					<ol class="references">
 						<li>WHO-Substandard and Falsified (SF) Medical Products.<a href="#">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
 						<li>EMA-Falsified medicines.<a href="#">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp.</a>Accessed September 21, 2017.</li>
 						<li>FDA-Counterfeit Medicine. <a href="#">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017</li>

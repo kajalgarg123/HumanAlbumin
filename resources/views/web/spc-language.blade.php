@@ -8,7 +8,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="scp-text">
-							<h1>Counterfeit Drugs:<br>A Serious Safety and Public Health Concern</h1>
+							<h1>Summary of Product Characteristics</h1>
 						</div>
 					</div>
 				</div>

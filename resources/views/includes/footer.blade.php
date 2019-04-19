@@ -32,12 +32,17 @@
                         </div>
 
                         <!-- end single footer -->
+                        <div class="col-md-6 col-sm-4 col-xs-12">
+                            <div class="footer-content">
+                                 <div class="footer-head">
+                                    <h4>Contact Us:</h4>
+                                    <p>The Official registered Distributer for Baxter Human Albumin</p>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col-md-3 col-sm-4 col-xs-12">
                             <div class="footer-content">
                                 <div class="footer-head">
-                                    <h4>Contact Us:</h4>
-                                    <p>The Official registered Distributer for Baxter Human Albumin</p>
-
                                     <p>Multipharma:</p>
 
                                        <p>Tel: 0224182931</p> 
@@ -51,7 +56,6 @@
                          <div class="col-md-3 col-sm-4 col-xs-12">
                             <div class="footer-content">
                                 <div class="footer-head">
-                                    <h4></h4>
                                         <p>Bio Egypt:</p>
 
                                         <p>Tel: 0223624442 - 0223624441</p>
