@@ -577,16 +577,225 @@ FAQ
 CAREERS
 ----------------------------------------*/
 .about-banner {
-    background-image: url(../img/about/banner-about.jpg);
+    background-image: linear-gradient(to right, #5d5d5d38, #5d5d5d38),url(../img/about/banner-about2.png);
     background-position: center;
-    height: 174px;
+    height: 240px;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
     position: relative;
     margin-top: 90px;
 }
 .about-banner .clinical-text {
     margin-top: 60px;
+}
+.albuminUse h2.text-center, .essentialFunction .text-center {
+    text-align: center;
+}
+.albuminUse .container {
+    width: 60%;
+}
+.albuminUse table.table {
+    background: white;
+}
+.albuminUse thead th{
+    min-width: 120px;
+}
+tbody td:not(:first-child) {
+    text-align: center;
+    font-size: 21px;
+    color: #fcb34c;
+}
+.albuminUse .borderless td, .albuminUse .borderless th {
+    border: none;
+    vertical-align: middle;
+}
+.albuminUse span.glyphicon {
+    font-size: 20px;
+    border: 0;
+    background: transparent;
+}
+.albuminUse tr:not(.spacer) {
+    border: 1px solid #7f7f7f;
+}
+.essentialFunction{
+    background: #f1f1f1cc;
+}
+.essentialFunction hr {
+    border-bottom: 3px solid #fcb34c;
+    width: 10%;
+    margin-top: -10px;
+}
+.primaryFunc {
+    padding-top: 15px;
+}
+.primaryFunc .col-md-4 p{
+    position: relative;
+    z-index: 9;
+}
+.primaryFunc .col-md-4:before {
+    content: '';
+    width: 20px;
+    height: 20px;
+    background: #fcb34c;
+    position: absolute;
+    border-radius: 50%;
+    top: -4px;
+    left: 3px;
+}
+.essentialFunction .plsVol{
+    font-size: 18px;
+    margin-top: 10px;
+}
+.thrSolu .btn-default{
+    pointer-events: none;
+    cursor: default;
+    margin-bottom: 10px;
+    width: 100%;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 0;
+    box-shadow: 8px 9px 8px #c3c3c3 !important;
+}
+.thrSolu .btn-default:hover {
+    color: #333;
+    background-color: #e6e6e6;
+    border-color: #adadad;
+}
+.thrSolu .col-md-6:before {
+    content: '';
+    border: 2px solid #525252;
+    position: absolute;
+    height: 49px;
+    top: 0;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+/* The actual timeline (the vertical ruler) */
+.timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: #fcb34c;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+}
+ /* Container around content */
+.timeline .container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 28%;
+}
+/* The circles on the timeline */
+.timeline .container::after {
+    content: '';
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    right: -1px;
+    background-color: white;
+    border: 4px solid #FF9F55;
+    top: 15px;
+    border-radius: 50%;
+    z-index: 1;
+}
+/* Place the container to the left */
+.timeline .left {
+    right: 13%;
+    text-align: right;
+}
+
+/* Place the container to the right */
+.timeline .right {
+    left: 13%;
+}
+/* Add arrows to the left container (pointing right) */
+.timeline .left::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 17px;
+    width: 0;
+    z-index: 1;
+    right: 30px;
+    border: medium solid #FF9F55;
+    border-width: 10px 0 10px 10px;
+    border-color: transparent transparent transparent #FF9F55;
+}
+  
+/* Add arrows to the right container (pointing left) */
+.timeline .right::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 17px;
+    width: 0;
+    z-index: 1;
+    left: 30px;
+    border: medium solid #FF9F55;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent #FF9F55 transparent transparent;
+}
+/* Fix the circle for containers on the right side */
+.timeline .right::after {
+    left: -2px;
+}
+/* The actual content */
+.timeline .content {
+    padding: 10px 10px;
+    background-color: white;
+    position: relative;
+    border-radius: 6px;
+    border: 5px solid #ff9f55;
+}
+.plasmaFinalPro{
+    text-align: center;
+    padding-bottom: 20px;
+}
+@media only screen and (max-width: 800px){
+    .timeline .container{
+        width: 41%;
+    }
+    .timeline .left{
+        right: 19%;
+    }
+    .timeline .right{
+        left: 19%;
+    }
+}
+@media only screen and (max-width: 600px){
+    .timeline::after{
+        left: 4.2%;
+    }
+    .timeline .container{
+        width: 60%;
+    }
+    .timeline .left{
+        text-align: left;
+        right: 15%;
+    }
+    .timeline .container::after{
+        left: -18px;
+    }
+    .timeline .right{
+        left: -15%;
+    }
+    .timeline .right::after{
+        left: -18px;
+    }
+    .timeline .left::before{
+        border: medium solid #FF9F55;
+        border-width: 10px 10px 10px 0;
+        border-color: transparent #FF9F55 transparent transparent;
+        left: 30px;;
+    }
 }
 a.apply-btn {
     background: #fcb34c;
@@ -1009,7 +1218,7 @@ th {
 SCP LANGUAGE
 ----------------------------------------*/
 .scp-banner {
-    background-image: url(../img/scp-banner.jpg);
+    background-image: linear-gradient(to right, #00000080, #383535a8),url(../img/scp-banner.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1021,7 +1230,7 @@ SCP LANGUAGE
 	
 }
 .counterfeit-banner {
-    background-image: url(../img/counterfeit-banner.jpg);
+    background-image: linear-gradient(to right, #00000080, #383535a8),url(../img/counterfeit-banner.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1131,4 +1340,7 @@ h4.spc-heading {
     float: left;
     width: 100%;
     margin-bottom: 40px;
+}
+.references > li{
+    font-size: 14px;
 }
