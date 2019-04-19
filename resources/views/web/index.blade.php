@@ -22,7 +22,7 @@
                                 </div>
                                 <!-- layer 2 -->
                                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                                    <a class="ready-btn page-scroll" href="#about">Summary of Product Characteristics</a>
+                                    <a class="ready-btn page-scroll" href="{{url('spc-language')}}">Summary of Product Characteristics</a>
                                 </div>
                             </div>
                         </div>

@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Admin;
 use App\SpcPdf;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Validator;
 
 class SpcPdfsController extends Controller
 {
@@ -35,8 +36,40 @@ class SpcPdfsController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function store(Request $request)
+    {    
+         $validator = Validator::make($request->all(), [
+            'spc_pdf' => 'required|mimes:pdf|max:10000',
+        ],[
+            'spc_pdf.required' => 'Please upload a PDF',
+            'spc_pdf.mimes' => 'Please select a PDF file',
+        ]);    
+
+        if($validator->passes()){
+            $file = $request->file('spc_pdf');
+            $destinationPath = public_path('uploads');
+            $file->move($destinationPath,$file->getClientOriginalName());
+
+            $requestData = $request->all();
+            $requestData['spc_pdf'] = $destinationPath;
+            $resume = SpcPdf::create($requestData);
+            return redirect()->back()->with('message', 'PDF is successfully uploaded.');
+        }else{
+            return redirect()->back()->withErrors($validator->errors())->withInput();
+        }    
+
+    }
+
+    public function getDownload()
     {
-        //
+        //PDF file is stored under project/public/download/info.pdf
+        
+        $file = SpcPdf::orderBy('id', 'DESC')->first();
+        $filepath = $file->spc_pdf;
+        $headers = array(
+                  'Content-Type' => 'application/pdf',
+                );
+
+        return response()->download($filepath, 'spcpdf.pdf', $headers);
     }
 
     /**

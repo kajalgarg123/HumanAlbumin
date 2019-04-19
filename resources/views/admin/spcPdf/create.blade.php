@@ -9,7 +9,7 @@
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1>
-          Add PDF for Spc-Language Page
+          Upload PDF for Spc-Language Page
       </h1>
     </section>
 
@@ -20,25 +20,22 @@
         <div class="col-md-8">
           <!-- general form elements -->
           <div class="box box-primary">
-           <form  action="{{route('add.team')}}" method="POST">  
+           @if(Session::has('message'))
+            <p class="alert alert-success">{{ Session::get('message') }}
+             <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a></p>
+           @endif
+           <form  action="{{url('admin/spc')}}" method="POST" enctype="multipart/form-data">  
             @csrf
-              <div class="box-body">
+               <div class="box-body">
                 <div class="form-group">
-                  <label for="exampleInputEmail1">Name</label>
-                  <input type="text" class="form-control" value="{{ old('name') }}" name="name" placeholder="Name">
-                  @if ($errors->has('name'))
-                    <div class="text-danger">{{ $errors->first('name') }}</div>
-                  @endif
-                </div>
-                <div class="form-group">
-                  <label for="exampleInputPassword1">Description</label>
-                  <textarea class="form-control" name="description" rows="3" placeholder="Description">{{ old('description') }}</textarea>
-                  @if ($errors->has('description'))
-                    <div class="text-danger">{{ $errors->first('description') }}</div>
+                  <label for="file">Import PDF</label>
+                   <input type="file" name="spc_pdf" id="spc_pdf">
+                  @if ($errors->has('spc_pdf'))
+                    <div class="text-danger">{{ $errors->first('spc_pdf') }}</div>
                   @endif
                 </div>
               </div>
-
+             
               <div class="box-footer">
                 <button type="submit" class="btn btn-primary">Submit</button>
               </div>

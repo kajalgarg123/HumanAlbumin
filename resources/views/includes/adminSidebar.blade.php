@@ -21,7 +21,7 @@
           </a>
         </li>
         <li class="">
-          <a href="{{url('/admin-dashboard')}}">
+          <a href="{{url('/admin/spc/create')}}">
             <i class="fa fa-clone"></i> <span>Spc-Language Page</span>
             <span class="pull-right-container">   
             </span>

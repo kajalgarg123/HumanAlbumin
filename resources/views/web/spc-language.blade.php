@@ -14,11 +14,6 @@
 				</div>
 			</div>
 		</div>
-		<div class="strip">
-			<div class="container">
-				<p>COUNTERFEIT DRUGS ARE A POTENTIALLY DEADLY PROBLEM</p>  
-			</div>
-		</div>
 		<div class="area-padding clinical-section-lang">
 			<div class="container">
 				<div class="row">

@@ -38,6 +38,8 @@ Route::group(['prefix' => 'admin',  'middleware' => 'auth'], function() {
     Route::get('team/index' , 'Admin\TeamController@index')->name('team.index');
     Route::get('team/edit/{id}' , 'Admin\TeamController@edit');
     Route::delete('team/delete/{id}' , 'Admin\TeamController@destroy');
+    Route::get('spc/download', 'Admin\SpcPdfsController@getDownload');
+    Route::resource('spc', 'Admin\SpcPdfsController');
 });
 
 
