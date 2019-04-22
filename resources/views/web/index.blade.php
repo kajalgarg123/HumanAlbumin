@@ -92,7 +92,7 @@
     <!-- End About area -->
     <div id="patientNeeds">
         <div class="container">
-            <h2 class="primeColr"><b>SERVING THE NEEDS OF OUR PATIENTS</h1></b></h2>
+            <h2 class="primeColr"><b>SERVING THE NEEDS OF OUR PATIENTS</b></h2>
             <div class="row">
                 <div class="col-md-6">
                     <h4><b>Takeda-ism</b></h4>

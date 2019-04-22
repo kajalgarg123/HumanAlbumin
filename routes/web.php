@@ -29,6 +29,7 @@ Auth::routes();
 
 // Route::get('/admin', 'HomeController@index')->name('admin');
 Route::get('/admin-dashboard', 'Admin\AdminController@index')->name('dashboard');
+Route::get('spc/download', 'Admin\SpcPdfsController@getDownload');
 Route::group(['prefix' => 'admin',  'middleware' => 'auth'], function() {
     Route::get('/comments-list', 'CommentController@index' );
     Route::get('team/create', 'Admin\TeamController@create' );
@@ -38,7 +39,6 @@ Route::group(['prefix' => 'admin',  'middleware' => 'auth'], function() {
     Route::get('team/index' , 'Admin\TeamController@index')->name('team.index');
     Route::get('team/edit/{id}' , 'Admin\TeamController@edit');
     Route::delete('team/delete/{id}' , 'Admin\TeamController@destroy');
-    Route::get('spc/download', 'Admin\SpcPdfsController@getDownload');
     Route::resource('spc', 'Admin\SpcPdfsController');
 });
 

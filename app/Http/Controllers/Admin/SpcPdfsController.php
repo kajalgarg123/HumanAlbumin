@@ -50,7 +50,7 @@ class SpcPdfsController extends Controller
             $file->move($destinationPath,$file->getClientOriginalName());
 
             $requestData = $request->all();
-            $requestData['spc_pdf'] = $destinationPath;
+            $requestData['spc_pdf'] = $destinationPath.'/'.$file->getClientOriginalName();
             $resume = SpcPdf::create($requestData);
             return redirect()->back()->with('message', 'PDF is successfully uploaded.');
         }else{
@@ -68,6 +68,7 @@ class SpcPdfsController extends Controller
         $headers = array(
                   'Content-Type' => 'application/pdf',
                 );
+        $newName = 'spcpdf-'.time().'.pdf';
 
         return response()->download($filepath, 'spcpdf.pdf', $headers);
     }

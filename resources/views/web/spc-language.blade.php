@@ -17,6 +17,7 @@
 		<div class="area-padding clinical-section-lang">
 			<div class="container">
 				<div class="row">
+					<a href="{{ url('spc/download') }}" class="pull-right btn btn-info"><i class="fa fa-download"></i> Download As PDF</a>
 					<div class="col-md-6 col-sm-12 col-xs-12">
 						<div class="spc-language">
 							<h3>Package Leaflet</h3>
