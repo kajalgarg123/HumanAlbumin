@@ -9,7 +9,6 @@
                 <div class="col-md-9 col-sm-12 col-xs-12">
                     <div class="suscribe-text text-center">
                         <h3>Welcome to our eBusiness company</h3>
-                        <a class="sus-btn" href="#">CONTACT US</a>
                     </div>
                 </div>
             </div>
