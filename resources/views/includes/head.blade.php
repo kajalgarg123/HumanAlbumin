@@ -11,9 +11,9 @@
     <link href="{{asset('lib/nivo-slider/css/nivo-slider.css')}}" rel="stylesheet">
     <link href="{{asset('lib/owlcarousel/owl.carousel.css')}}" rel="stylesheet">
     <link href="{{asset('lib/owlcarousel/owl.transitions.css')}}" rel="stylesheet">
-    <link href="{{asset('lib/font-awesome/css/font-awesome.css')}}" rel="stylesheet">
     <link href="{{asset('lib/animate/animate.min.css')}}" rel="stylesheet">
     <link href="{{asset('lib/venobox/venobox.css')}}" rel="stylesheet">
     <link href="{{asset('css/nivo-slider-theme.css')}}" rel="stylesheet">
     <link href="{{asset('css/style.css')}}" rel="stylesheet">
     <link href="{{asset('css/responsive.css')}}" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
