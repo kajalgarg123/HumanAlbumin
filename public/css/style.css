@@ -248,6 +248,7 @@ h2.title1 {
 
 #unwaverCommit .subUnwaverCommit img {
     min-height: 65px;
+    filter: grayscale(1);
 }
 .doctr-text h2 {
     color: #fff;
