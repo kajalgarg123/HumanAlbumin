@@ -44,10 +44,10 @@
                                 <div class="footer-head">
                                     <p>Multipharma:</p>
 
-                                       <p>Tel: 0224182931</p> 
+                                       <p>Tel: <a href="tel:0224182931">0224182931</a></p> 
                                         <p>Fax: 024141320</p>
                                         <p>Hot Line:16300</p>
-                                        <p>Email : tender@multipharma-eg.com</p>
+                                        <p>Email : <a href="mailto:tender@multipharma-eg.com" target="_top">tender@multipharma-eg.com</a></p>
                                    
                                 </div>
                             </div>
@@ -57,10 +57,10 @@
                                 <div class="footer-head">
                                         <p>Bio Egypt:</p>
 
-                                        <p>Tel: 0223624442 - 0223624441</p>
-                                        <p>Email :info@bioegypt.net</p>
-                                    <a href="www.shire.com">www.shire.com</a>
-                                    <a href="www.takeda.com">www.takeda.com</a>
+                                        <p>Tel: <a href="tel:0223624442">0223624442</a> - <a href="tel:0223624441">0223624441</a></p>
+                                        <p>Email :<a href="mailto:info@bioegypt.net" target="_top">info@bioegypt.net</a></p>
+                                    <a href="https://www.shire.com" target="_blank">www.shire.com</a>
+                                    <a href="https://www.takeda.com" target="_blank">www.takeda.com</a>
                                 </div>
                             </div>
                         </div>
@@ -83,15 +83,11 @@
     <!-- JavaScript Libraries -->
     <script src="{{asset('lib/jquery/jquery.min.js')}}"></script>
     <script src="{{asset('lib/bootstrap/js/bootstrap.min.js')}}"></script>
-    <script src="{{asset('lib/owlcarousel/owl.carousel.min.js')}}"></script>
-    <script src="{{asset('lib/venobox/venobox.min.js')}}"></script>
-    <script src="{{asset('lib/knob/jquery.knob.js')}}"></script>
     <script src="{{asset('lib/wow/wow.min.js')}}"></script>
     <script src="{{asset('lib/parallax/parallax.js')}}"></script>
     <script src="{{asset('lib/easing/easing.min.js')}}"></script>
     <script src="{{asset('lib/nivo-slider/js/jquery.nivo.slider.js')}}" type="text/javascript"></script>
     <script src="{{asset('lib/appear/jquery.appear.js')}}"></script>
-    <script src="{{asset('lib/isotope/isotope.pkgd.min.js')}}"></script>
     <script src="{{asset('js/main.js')}}"></script>
     <script>
         $('.collapse').on('shown.bs.collapse', function() {

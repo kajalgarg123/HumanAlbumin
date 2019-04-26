@@ -214,15 +214,15 @@
         <div class="row">
             <div class="col-sm-6 col-md-6 col-xs-12">
                 <p>Multipharma:</p>
-                <p>Tel: 0224182931</p>
+                <p>Tel: <a href="tel:0224182931">0224182931</a> </p>
                 <p>Fax: 024141320</p>
                 <p>Hot Line:16300</p>
-                <p>Email : <a> tender@multipharma-eg.com</a></p>
+                <p>Email : <a href="mailto:tender@multipharma-eg.com" target="_top"> tender@multipharma-eg.com</a></p>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-6">
                 <p>Bio Egypt:</p>
-                <p>Tel: 0223624442 - 0223624441</p>
-                <p>Email : <a>info@bioegypt.net </a></p>
+                <p>Tel: <a href="tel:0223624442">0223624442</a> - <a href="tel:0223624441">0223624441</a></p>
+                <p>Email : <a href="mailto:info@bioegypt.net">info@bioegypt.net </a></p>
             </div>
         </div>
         

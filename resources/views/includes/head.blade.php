@@ -9,10 +9,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900" rel="stylesheet">
     <link href="{{asset('lib/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
     <link href="{{asset('lib/nivo-slider/css/nivo-slider.css')}}" rel="stylesheet">
-    <link href="{{asset('lib/owlcarousel/owl.carousel.css')}}" rel="stylesheet">
-    <link href="{{asset('lib/owlcarousel/owl.transitions.css')}}" rel="stylesheet">
     <link href="{{asset('lib/animate/animate.min.css')}}" rel="stylesheet">
-    <link href="{{asset('lib/venobox/venobox.css')}}" rel="stylesheet">
     <link href="{{asset('css/nivo-slider-theme.css')}}" rel="stylesheet">
     <link href="{{asset('css/style.css')}}" rel="stylesheet">
     <link href="{{asset('css/responsive.css')}}" rel="stylesheet">
