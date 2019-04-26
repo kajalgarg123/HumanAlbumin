@@ -28,6 +28,7 @@
                 </div>
             </div>
 
+
             <!-- direction 2 -->
             <div id="slider-direction-2" class="slider-direction slider-two">
                 <div class="container">

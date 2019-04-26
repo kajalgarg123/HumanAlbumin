@@ -70,7 +70,7 @@ class SpcPdfsController extends Controller
                 );
         $newName = 'spcpdf-'.time().'.pdf';
 
-        return response()->download($filepath, 'spcpdf.pdf', $headers);
+        return response()->download($filepath, 'spcpdf'.time().'.pdf', $headers);
     }
 
     /**

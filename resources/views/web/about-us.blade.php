@@ -108,48 +108,8 @@
 			</div>
 		</div>
 	</div>
-	<div class="container area-padding">
-		<div class="timeline">
-			<div class="container left">
-				<div class="content">
-					<h4>1.</h4>
-					<p>Donor qualification</p>
-				</div>
-			</div>
-			<div class="container right">
-				<div class="content">
-						<h4>2.</h4>
-					<p>Testing of single plasma donations for HIV, HBV, HCV </p>
-				</div>
-			</div>
-			<div class="container left">
-				<div class="content">
-						<h4>3.</h4>
-					<p>Plasma 60 days inventory hold from qualified donors </p>
-				</div>
-			</div>
-			<div class="container right">
-				<div class="content">
-						<h4>4.</h4>
-					<p>PCR mini-pool testing (HIV-1, HBV, HCV, HAV, and parvovirus  B19)</p>
-				</div>
-			</div>
-			<div class="container left">
-				<div class="content">
-						<h4>5.</h4>
-					<p> PCR production pool (HIV-1,HBV, HCV, parvovirus B19, HAV)</p>
-				</div>
-			</div>
-			<div class="container right">
-				<div class="content">
-						<h4>6.</h4>
-					<p>Virus removal/ virus inactivation steps validated according to regulatory and manufacturing guidelines </p>
-				</div>
-			</div>
-		</div>
-	</div>
 	<div class="container plasmaFinalPro">
-		<img src="{{asset('/img/about/plasmaFinalProduct.png')}}">
+		<img src="{{ asset('/img/banner-s.jpg')}}">
 	</div>
 </div>
 @endsection

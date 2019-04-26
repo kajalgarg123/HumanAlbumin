@@ -10,13 +10,14 @@
 				</div>
 				<div class="col-md-6 col-sm-6 col-xs-4">
 					<div class="country-select">
-						<a class="language" href="#"><i class="fa fa-language" aria-hidden="true"></i>
-							<select title="" class="selectpicker">
-								<option><i class="fa fa-language" aria-hidden="true"></i>UK English</option>
-								<option>Arabic</option>
-							</select>
-						</a>
-					</div>
+						<div class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#"><i class="fa fa-language" ></i>UK English<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                              <li><a href=""> UK English</a></li>
+                              <li><a href="">Arabic</a></li>
+                            </ul>
+                        </div>
+                    </div>
 				</div>
 			</div>
 		 </div>

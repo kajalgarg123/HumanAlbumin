@@ -14,16 +14,16 @@
 Route::post('comments', 'CommentController@storeComments')->name('add.comment')->middleware('web');
 Route::post('addresume' , 'ResumeController@store')->name('add.resume');
 
-Route::view('/' , 'web.index');
-Route::view('about-us' , 'web.about-us');
-Route::view('clinical' , 'web.clinical');
-Route::view('counterfeit' , 'web.counterfeit');
-Route::view('spc-language' , 'web.spc-language');
-Route::view('team' , 'web.team');
-Route::view('faq' , 'web.faq');
-Route::view('blog' , 'web.blog');
-Route::view('career' , 'web.carrer');
-Route::view('blank' , 'web.blank');
+Route::get('/' , 'PagesController@home');
+Route::get('about-us' , 'PagesController@aboutus');
+Route::get('clinical' , 'PagesController@clinical');
+Route::get('counterfeit' , 'PagesController@counterfeit');
+Route::get('spc-language' , 'PagesController@spclanguage');
+Route::get('team' , 'PagesController@team');
+Route::get('faq' , 'PagesController@faq');
+Route::get('blog' , 'PagesController@blog');
+Route::get('career' , 'PagesController@career');
+Route::get('blank' , 'PagesController@blank');
 
 Auth::routes();
 
