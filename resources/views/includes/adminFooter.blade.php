@@ -1,7 +1,7 @@
 <footer class="main-footer">
     <strong>Copyright &copy; 2019-2020 .</strong> All rights
     reserved.
-  </footer>
+</footer>
   
 <!-- jQuery 3 -->
 <script src="{{asset('admin/js/jquery.min.js')}}"></script>
