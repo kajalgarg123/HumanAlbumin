@@ -18,7 +18,7 @@
             <div class="footer-area">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6 col-sm-4 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12">
                             <div class="footer-content">
                                 <div class="footer-head">
                                     <div class="footer-head">
@@ -31,7 +31,7 @@
                         </div>
 
                         <!-- end single footer -->
-                        <div class="col-md-6 col-sm-4 col-xs-12">
+                        <div class="col-md-8 col-sm-4 col-xs-12">
                             <div class="footer-content">
                                  <div class="footer-head">
                                     <h4>Contact Us:</h4>
@@ -59,6 +59,12 @@
 
                                         <p>Tel: <a href="tel:0223624442">0223624442</a> - <a href="tel:0223624441">0223624441</a></p>
                                         <p>Email :<a href="mailto:info@bioegypt.net" target="_top">info@bioegypt.net</a></p>
+                                </div>
+                            </div>
+                        </div>
+                         <div class="col-md-2 col-sm-4 col-xs-12">
+                            <div class="footer-content">
+                                <div class="footer-head">
                                     <a href="https://www.shire.com" target="_blank">www.shire.com</a>
                                     <a href="https://www.takeda.com" target="_blank">www.takeda.com</a>
                                 </div>

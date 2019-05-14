@@ -1306,25 +1306,25 @@ th {
 SCP LANGUAGE
 ----------------------------------------*/
 .scp-banner {
-    background-image: linear-gradient(to right, #00000080, #383535a8),url(../img/scp-banner.jpg);
+    background-image: linear-gradient(to right, #0003, #383535a8),url(../img/scp-banner.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     float: left;
     width: 100%;
-    padding: 50px;
+    padding: 100px;
 	position: relative;
 	margin-top: 90px;
 	
 }
 .counterfeit-banner {
-    background-image: linear-gradient(to right, #00000080, #383535a8),url(../img/counterfeit-banner.jpg);
+    background-image: linear-gradient(to right, #0003, #383535a8),url(../img/counterfeit-banner.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     float: left;
     width: 100%;
-    padding: 50px;
+    padding: 100px;
     position: relative;
     margin-top: 90px;
     

@@ -28,7 +28,7 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="section-headline">
-                        <h2>Albumin Has a High Clinical Value in a Variety of Conditions <span>1-3</span> </h2>
+                        <h2>Albumin Has a High Clinical Value in a Variety of Conditions <sup>1-3</sup> </h2>
                         
                         <p>The safety and effect of Human Albumin on improved outcomes in a variety of pathological conditions have been demonstrated in</p>
                     </div>
@@ -129,14 +129,14 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="section-headline">
-                        <h5>Albumin Provides an Equivalent Safety Profile to Saline<span>1</span></h5>
+                        <h5>Albumin Provides an Equivalent Safety Profile to Saline<sup>1</sup></h5>
                         <p>All-cause mortality rates at the 28-day evaluation period</p>
                         <img src="{{asset('img/clinical-3.jpg')}}">
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="section-headline">
-                        <h5>Albumin Displays a More Favorable Safety Profile  Than Hydroxyethyl Starch (HES) Preparations<span>2,4</span></h5>
+                        <h5>Albumin Displays a More Favorable Safety Profile  Than Hydroxyethyl Starch (HES) Preparations<sup>2,4</sup></h5>
                     </div>
                     <div class="circle">
                         <div class="col-md-6 col-sm-6 col-xs-12">

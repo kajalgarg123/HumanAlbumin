@@ -13,6 +13,44 @@
 			</div>
 		</div>
 	</div>
+	<div class="container essentialFunction area-padding">
+		<h2 class="text-center">Essential functions and clinical use of Human Albumin</h2>
+		<p class="text-center">
+			An essential protein found in human plasma and accounts for about 50%-60% of plasma proteins.
+		</p>
+		<div class="container primaryFunc area-padding">
+			<h4 class="text-center"><b>The primary functions of albumin</b></h4>
+			<hr>
+			<div class="container">
+				<div class="col-md-4">
+					<p>To maintain intravascular oncotic pressure</p>					
+				</div>
+				<div class="col-md-4">
+					<p>To serve as a free radical scavenger</p>				
+				</div>
+				<div class="col-md-4">
+					<p>To facilitate transportation of substances</p>				
+				</div>
+			</div>
+		</div>
+		<p class="container text-center plsVol">
+			When plasma volume is drastically reduced, <b>serum albumin supplementation can help restore the losses</b>.
+		</p>
+		<div class="container thrSolu">
+			<div class="container">
+				<div class="col-md-6"><button class="btn btn-default">Solution for infusion</button></div>
+			</div>
+			<div class="container">
+				<div class="col-md-6 col-md-offset-3"><button class="btn btn-default">Available in 50 g/l and 200 g/l</button></div>
+			</div>
+			<div class="container">
+				<div class="col-md-6 col-md-offset-5"><button class="btn btn-default">95% human albumin</button></div>
+			</div>
+		</div>
+	</div>
+	<div class="container plasmaFinalPro">
+		<img src="{{ asset('/img/banner-s.jpg')}}">
+	</div>
 	<div class="area-padding albuminUse">
 		<div class="container">
 			<h2 class="text-center">Select uses of Albumin<sup>1,2</sup></h2>
@@ -72,44 +110,6 @@
 				</table>
 			</div>
 		</div>
-	</div>
-	<div class="container essentialFunction area-padding">
-		<h2 class="text-center">Essential functions and clinical use of Human Albumin</h2>
-		<p class="text-center">
-			An essential protein found in human plasma and accounts for about 50%-60% of plasma proteins.
-		</p>
-		<div class="container primaryFunc area-padding">
-			<h4 class="text-center"><b>The primary functions of albumin</b></h4>
-			<hr>
-			<div class="container">
-				<div class="col-md-4">
-					<p>To maintain intravascular oncotic pressure</p>					
-				</div>
-				<div class="col-md-4">
-					<p>To serve as a free radical scavenger</p>				
-				</div>
-				<div class="col-md-4">
-					<p>To facilitate transportation of substances</p>				
-				</div>
-			</div>
-		</div>
-		<p class="container text-center plsVol">
-			When plasma volume is drastically reduced, <b>serum albumin supplementation can help restore the losses</b>.
-		</p>
-		<div class="container thrSolu">
-			<div class="container">
-				<div class="col-md-6"><button class="btn btn-default">Solution for infusion</button></div>
-			</div>
-			<div class="container">
-				<div class="col-md-6 col-md-offset-3"><button class="btn btn-default">Available in 50 g/l and 200 g/l</button></div>
-			</div>
-			<div class="container">
-				<div class="col-md-6 col-md-offset-5"><button class="btn btn-default">95% human albumin</button></div>
-			</div>
-		</div>
-	</div>
-	<div class="container plasmaFinalPro">
-		<img src="{{ asset('/img/banner-s.jpg')}}">
 	</div>
 </div>
 @endsection
