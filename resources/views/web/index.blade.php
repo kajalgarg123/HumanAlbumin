@@ -96,7 +96,7 @@
             <h2 class="primeColr"><b>SERVING THE NEEDS OF OUR PATIENTS</b></h2>
             <div class="row">
                 <div class="col-md-6">
-                    <h4><b>Takeda-ism</b></h4>
+                    <h4><b>TAKEDA-ISM</b></h4>
                     <p>
                         Our values serve as our guiding compass. Takeda-ism grounds us as we deliver on our role to serve the public by ensuring integrity in our every action for and on behalf of patients.
                     </p>
@@ -118,7 +118,7 @@
             </div>
             <div class="row">
                 <div class="container">                    
-                    <h4><b>Our Priorities</b></h4>
+                    <h4><b>OUR PRIORITIES</b></h4>
                     <p>
                         We make decisions and take action by focusing on our four priorities, in this order:
                     </p>
@@ -131,7 +131,7 @@
                             <h1>1</h1>
                         </div>
                         <div class="col-md-10">
-                            <p class="primeColr">Put the patient at the center</p>
+                            <p class="primeColr">PUT THE PATIENT AT THE CENTER</p>
                         </div>
                         <div class="col-md-1 priIcon">
                             <i class="fa fa-angle-right"></i>
@@ -142,7 +142,7 @@
                             <h1>2</h1>
                         </div>
                         <div class="col-md-10">
-                            <p class="primeColr">Build trust with society</p>
+                            <p class="primeColr">BUILD TRUST WITH SOCIETY</p>
                         </div>
                         <div class="col-md-1 priIcon">
                             <i class="fa fa-angle-right"></i>
@@ -153,7 +153,7 @@
                             <h1>3</h1>
                         </div>
                         <div class="col-md-10">
-                            <p class="primeColr">Reinforce our reputation</p>
+                            <p class="primeColr">REINFORCE OUR REPUTATION</p>
                         </div>
                         <div class="col-md-1 priIcon">
                             <i class="fa fa-angle-right"></i>
@@ -164,7 +164,7 @@
                             <h1>4</h1>
                         </div>
                         <div class="col-md-10">
-                            <p class="primeColr">Develop the business</p>
+                            <p class="primeColr">DEVELOP THE BUSINESS</p>
                         </div>                     
                     </div>
                 </div>
@@ -209,18 +209,18 @@
         </div>
     </div>
     <div class="container">
-        <h2 class="primeColr"><b>Our team: </b></h2>
+        <h2 class="primeColr"><b>OUR TEAM: </b></h2>
         <p>The Official registered Distributer for Baxter Human Albumin</p>
         <div class="row">
             <div class="col-sm-6 col-md-6 col-xs-12">
-                <p>Multipharma:</p>
+                <p>MULTIPHARMA:</p>
                 <p>Tel: <a href="tel:0224182931">0224182931</a> </p>
                 <p>Fax: 024141320</p>
                 <p>Hot Line:16300</p>
                 <p>Email : <a href="mailto:tender@multipharma-eg.com" target="_top"> tender@multipharma-eg.com</a></p>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-6">
-                <p>Bio Egypt:</p>
+                <p>BIO EGYPT:</p>
                 <p>Tel: <a href="tel:0223624442">0223624442</a> - <a href="tel:0223624441">0223624441</a></p>
                 <p>Email : <a href="mailto:info@bioegypt.net">info@bioegypt.net </a></p>
             </div>

@@ -14,7 +14,7 @@
                             <a class="dropdown-toggle" data-toggle="dropdown" href="#"><i class="fa fa-language" ></i>UK English<span class="caret"></span></a>
                             <ul class="dropdown-menu">
                               <li><a href=""> UK English</a></li>
-                              <li><a href="">Arabic</a></li>
+                              <li><a href="http://ar.human-albumin.projectdevelopment.co/">Arabic</a></li>
                             </ul>
                         </div>
                     </div>
