@@ -1,9 +1,4 @@
-<?php 
-    header("Access-Control-Allow-Origin: *");
-    header("Access-Control-Allow-Methods: PUT, GET, POST");
-    header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
 
- ?>
     <meta charset="utf-8">
     <title>Human Albumin</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
