@@ -127,10 +127,16 @@
             <div class="row">
                 <div class="container prioriTies">
                     <div class="col-md-3 col-sm-6 subPrioriTies">
+                        <div class="col-md-1 priIcon">
+                            <i class="fa fa-angle-right"></i>
+                        </div>
+                        <div class="col-md-1">
+                                
+                        </div>
                         <div class="col-md-1">
                             <h1>1</h1>
                         </div>
-                        <div class="col-md-10">
+                        <div class="col-md-9">
                             <p class="primeColr">PUT THE PATIENT AT THE CENTER</p>
                         </div>
                         <div class="col-md-1 priIcon">
