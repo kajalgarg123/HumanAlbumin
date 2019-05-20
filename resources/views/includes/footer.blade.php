@@ -42,7 +42,7 @@
                         <div class="col-md-3 col-sm-4 col-xs-12">
                             <div class="footer-content">
                                 <div class="footer-head">
-                                    <p>Multipharma:</p>
+                                    <p>MULTIPHARMA:</p>
 
                                        <p>Tel: <a href="tel:0224182931">0224182931</a></p> 
                                         <p>Fax: 024141320</p>
@@ -55,7 +55,7 @@
                          <div class="col-md-3 col-sm-4 col-xs-12">
                             <div class="footer-content">
                                 <div class="footer-head">
-                                        <p>Bio Egypt:</p>
+                                        <p>BIO EGYPT:</p>
 
                                         <p>Tel: <a href="tel:0223624442">0223624442</a> - <a href="tel:0223624441">0223624441</a></p>
                                         <p>Email :<a href="mailto:info@bioegypt.net" target="_top">info@bioegypt.net</a></p>

@@ -14,12 +14,12 @@
 		</div>
 	</div>
 	<div class="container essentialFunction area-padding">
-		<h2 class="text-center">Essential functions and clinical use of Human Albumin</h2>
+		<h2 class="text-center">ESSENTIAL FUNCTIONS AND CLINICAL USE OF HUMAN ALBUMIN</h2>
 		<p class="text-center">
 			An essential protein found in human plasma and accounts for about 50%-60% of plasma proteins.
 		</p>
 		<div class="container primaryFunc area-padding">
-			<h4 class="text-center"><b>The primary functions of albumin</b></h4>
+			<h4 class="text-center"><b>THE PRIMARY FUNCTIONS OF ALBUMIN</b></h4>
 			<hr>
 			<div class="container">
 				<div class="col-md-4">
@@ -53,7 +53,7 @@
 	</div>
 	<div class="area-padding albuminUse">
 		<div class="container">
-			<h2 class="text-center">Select uses of Albumin<sup>1,2</sup></h2>
+			<h2 class="text-center">SELECT USES OF ALBUMIN<sup>1,2</sup></h2>
 			<div class="table-responsive">          
 				<table class="table borderless">
 					<thead>
