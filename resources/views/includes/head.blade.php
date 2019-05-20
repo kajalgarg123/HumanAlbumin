@@ -7,6 +7,7 @@
     <link href="{{asset('img/favicon.png')}}" rel="icon">
     <link href="{{asset('img/apple-touch-icon.png')}}" rel="apple-touch-icon">
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{asset('lib/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
     <link href="{{asset('lib/nivo-slider/css/nivo-slider.css')}}" rel="stylesheet">
     <link href="{{asset('lib/animate/animate.min.css')}}" rel="stylesheet">
