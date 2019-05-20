@@ -158,7 +158,8 @@
     </div>
     <div class="strip">
         <div class="container">
-            <h2 class="highlight">USES OF HUMAN ALBUMIN 1. SEPSIS</h2>
+            <h2 class="highlight">USES OF HUMAN ALBUMIN </h2>
+            <h2 class="highlight">1. SEPSIS</h2>
         </div>
     </div>
     <div id="about" class="area-padding">
@@ -211,7 +212,7 @@
         </div>
         <div class="strip">
             <div class="container">
-                <h2 class="highlight">USES OF HUMAN ALBUMIN 2. LIVER DISEASE</h2>
+                <h2 class="highlight">2. LIVER DISEASE</h2>
             </div>
         </div>
         <div class="container">
@@ -301,7 +302,7 @@
     </div>
     <div class="strip">
         <div class="container">
-            <h2 class="highlight">USES OF HUMAN ALBUMIN 3. CARDIAC SURGERY</h2>
+            <h2 class="highlight">3. CARDIAC SURGERY</h2>
         </div>
     </div>
     <div class="area-padding">
@@ -355,7 +356,7 @@
     </div>
     <div class="strip">
         <div class="container">
-            <h2 class="highlight">USES OF HUMAN ALBUMIN 4. GENERAL SURGERY</h2>
+            <h2 class="highlight">4. GENERAL SURGERY</h2>
         </div>
     </div>
     <div class="container">
@@ -369,7 +370,7 @@
     </div>
     <div class="strip">
         <div class="container">
-            <h2 class="highlight">USES OF HUMAN ALBUMIN 5. INTENSIVE CARE</h2>
+            <h2 class="highlight">5. INTENSIVE CARE</h2>
         </div>
     </div>
     <div class="table-concentration">
@@ -420,7 +421,7 @@
     </div>
     <div class="strip">
         <div class="container">
-            <h2 class="highlight">USES OF HUMAN ALBUMIN 6. CRITICALLY ILL PATIENTS</h2>
+            <h2 class="highlight">6. CRITICALLY ILL PATIENTS</h2>
         </div>
     </div>
     <div class="table-concentration">
@@ -543,7 +544,7 @@
     </div>
     <div class="strip">
         <div class="container">
-            <h2 class="highlight">Abbreviated Prescribing Information</h2>
+            <h2 class="highlight">ABBREVIATED PRESCRIBING INFORMATION</h2>
         </div>
     </div>
     <div class="container">
