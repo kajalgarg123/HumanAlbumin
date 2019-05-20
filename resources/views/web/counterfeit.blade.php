@@ -177,7 +177,7 @@
 		</div>
 		<div class="strip">
 			<div class="container">
-			   <h2 class="highlight">An main of Counterfeit Drug: Baxter Human Albumin, Egypt</h2>   
+			   <h2 class="highlight">AN MAIN OF COUNTERFEIT DRUG: BAXTER HUMAN ALBUMIN, EGYPT</h2>   
 			</div>
 		</div>
 		<div class="area-padding clinical-section-1">
@@ -230,7 +230,7 @@
 		</div>
 		<div class="strip">
 			<div class="container">
-			   <h2 class="highlight">An main of Counterfeit Drug: Baxter Human Albumin, Egypt</h2>   
+			   <h2 class="highlight">AN MAIN OF COUNTERFEIT DRUG: BAXTER HUMAN ALBUMIN, EGYPT</h2>   
 			</div>
 		</div>
 		<div class="area-padding clinical-section-1">
