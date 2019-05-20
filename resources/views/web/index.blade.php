@@ -16,7 +16,7 @@
                             <div class="slider-content">
                                 <!-- layer 1 -->
                                 <div class="layer-1-1 hidden-xs wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                                    <h2 class="title1">About Takeda:<br>Better Health, Brighter Future <br></h2>
+                                    <h2 class="title1">About Takeda: Better Health, Brighter Future <br></h2>
                                 </div>
                                 <!-- layer 2 -->
                                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
