@@ -87,9 +87,9 @@
 		</footer>
 		
     <!-- JavaScript Libraries -->
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="{{asset('lib/jquery/jquery.min.js')}}"></script>
     <script src="{{asset('lib/bootstrap/js/bootstrap.min.js')}}"></script>
+    <!-- <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
     <script src="{{asset('lib/wow/wow.min.js')}}"></script>
     <script src="{{asset('lib/parallax/parallax.js')}}"></script>
     <script src="{{asset('lib/easing/easing.min.js')}}"></script>
