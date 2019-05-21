@@ -25,10 +25,18 @@ h1, h2, h3, h4, h5, h6 {
 html, body {
     height: 100%;
 }
+
+.text-left{
+	text-align: left !important;
+}
+
 .top-header {
     background: #fcb34c;
     padding: 8px 0px;
     display: block;
+}
+.top-header ul.contact-details {
+    display: inline-flex;
 }
 ul {
     list-style: outside none none;
@@ -108,6 +116,7 @@ ul.nav.navbar-nav.navbar-right {
     height: 70px;
     padding: 9px 0;
 }
+
 img {
     max-width: 100%;
     height: auto;
@@ -135,11 +144,24 @@ li.button-product {
 }
 h2.title1 {
     text-transform: uppercase;
-    text-align: left;
+    text-align: center;
     font-size: 35px;
     line-height: 55px;
     color: #fff;
 }
+.nivoSlider img{
+	width: 100% !important;
+}
+
+.home-banner {    
+    background-image: linear-gradient(to right, rgba(93,93,93,0.22), rgba(93,93,93,0.22)),url(../img/slider/slider1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 90px;
+}
+
 .about-area {
     background-color: #f7f7f7;
 }
@@ -663,7 +685,7 @@ FAQ
 CAREERS
 ----------------------------------------*/
 .about-banner {
-    background-image: linear-gradient(to right, #5d5d5d38, #5d5d5d38),url(../img/about/banner-about2.png);
+    background-image: linear-gradient(to right, rgba(93,93,93,0.22), rgba(93,93,93,0.22)),url(../img/about/banner-about2.png);
     background-position: center;
     height: 240px;
     background-repeat: no-repeat;
@@ -725,8 +747,8 @@ tbody td:not(:first-child) {
     background: #fcb34c;
     position: absolute;
     border-radius: 50%;
-    top: -4px;
-    left: 3px;
+    top: 5px;
+    left: -10px;
 }
 .essentialFunction .plsVol{
     font-size: 18px;
@@ -1304,7 +1326,7 @@ th {
 SCP LANGUAGE
 ----------------------------------------*/
 .scp-banner {
-    background-image: linear-gradient(to right, #0003, #383535a8),url(../img/scp-banner.jpg);
+    background-image: linear-gradient(to right, rgba(0,0,0,0.23), rgba(56,53,53,0.66)),url(../img/scp-banner.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1316,7 +1338,7 @@ SCP LANGUAGE
 	
 }
 .counterfeit-banner {
-    background-image: linear-gradient(to right, #0003, #383535a8),url(../img/counterfeit-banner.jpg);
+    background-image: linear-gradient(to right, rgba(0,0,0,0.23), rgba(56,53,53,0.66)),url(../img/counterfeit-banner.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1329,7 +1351,7 @@ SCP LANGUAGE
 }
 
 .scp-text h1 {text-transform: uppercase;
-    color: #ffff;
+    color: rgba(255,255,255,1);
     line-height: 42px;
     margin: 0px;
 }
@@ -1441,4 +1463,10 @@ h4.spc-heading {
 .country-select .dropdown-menu{
     right: 0;
     left: unset;
+}
+.clinicalValTbl{
+	background: #e6e6e6;
+}
+.morbidityTbl{
+	display: inline-block;
 }

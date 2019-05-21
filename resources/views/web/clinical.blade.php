@@ -43,7 +43,7 @@
                     </div>
                 </div>
                 <div class="col-md-8 col-sm-8 col-xs-12">
-                    <div class="table-responsive">
+                    <div class="table-responsive clinicalValTbl">
                         <table class="table">
                             <tbody>
                                 <tr class="tr">
@@ -59,7 +59,7 @@
                                     <td class="td">31</td>
                                     <td class="td">1559</td>
                                     <td class="td">14-105</td>
-                                    <td class="td">
+                                    <td class="td text-left">
                                         <li><i class="fa fa-angle-down" aria-hidden="true"></i> Amount of fluid in the peri-and post-operative period</li>
                                         <li><i class="fa fa-angle-down" aria-hidden="true"></i> Shunt
                                         </li>
@@ -72,7 +72,7 @@
                                     <td class="td">10</td>
                                     <td class="td">942</td>
                                     <td class="td">18-289</td>
-                                    <td class="td">
+                                    <td class="td text-left">
                                         <li><i class="fa fa-angle-down" aria-hidden="true"></i> Complications and activation of the renin-angiotensin system during paracentesis</li>
                                         <li><i class="fa fa-angle-down" aria-hidden="true"></i> Hemodynamics post-paracentesis</li>
                                         <li><i class="fa fa-angle-down" aria-hidden="true"></i> Hospital stays/costs</li>
@@ -84,7 +84,7 @@
                                     <td class="td">4</td>
                                     <td class="td">104</td>
                                     <td class="td">12-46</td>
-                                    <td class="td">
+                                    <td class="td text-left">
                                         <li><i class="fa fa-angle-down" aria-hidden="true"></i> Pulmonary edema</li>
                                         <li><i class="fa fa-angle-down" aria-hidden="true"></i> Blood coagulopathy</li>
                                     </td>
@@ -94,7 +94,7 @@
                                     <td class="td">4</td>
                                     <td class="td">197</td>
                                     <td class="td">19-79</td>
-                                    <td class="td">
+                                    <td class="td text-left">
                                         <li><i class="fa fa-angle-down" aria-hidden="true"></i> Complications
                                         </li>
                                     </td>
@@ -104,7 +104,7 @@
                                     <td class="td">4</td>
                                     <td class="td">418</td>
                                     <td class="td">18-300</td>
-                                    <td class="td">
+                                    <td class="td text-left">
                                         <li><i class="fa fa-angle-down" aria-hidden="true"></i>Disability and cerebral edema in neonates with hypoxic-ischemic injury. Need for caution in patients with trauma and associated chronic hypertension</li>
                                     </td>
                                 </tr>
@@ -113,7 +113,7 @@
                                     <td class="td">2</td>
                                     <td class="td">453</td>
                                     <td class="td">49-434</td>
-                                    <td class="td">
+                                    <td class="td text-left">
                                         <li><i class="fa fa-angle-down" aria-hidden="true"></i> mNIHSS scores</li>
                                         <li><i class="fa fa-angle-down" aria-hidden="true"></i> DWI Lesion volume increasa</li>
                                         <li><i class="fa fa-angle-down" aria-hidden="true"></i> Patent/recanalized vessels associated with more significant improvement</li>
@@ -219,28 +219,28 @@
             <div class="row">
                 <div class="advanced-cirrhosis">
                     <div class="col-md-8">
-                        <div class="col-md-5">
+                        <div class="col-md-5 col-sm-5">
                             <div class="circle"><span>Liver dysfunction</span></div>
                         </div>
-                        <div class="col-md-2">
+                        <div class="col-md-2 col-sm-2">
                             <i class="fa fa-plus"></i>
                         </div>
-                        <div class="col-md-5">
+                        <div class="col-md-5 col-sm-5">
                             <div class="circle"><span>Dilution of albumin content in the extracellular space*</span></div>
                         </div>
-                        <div class="col-md-12 cirrhosis-circle">
+                        <div class="col-md-12 col-sm-12 cirrhosis-circle">
                             <div class="circle-2">
                                 <span>Hypovolemin, & HypoalbuminemiaIf left untreated,hypovolemia willexacerbateleading to:</span>
                                 <img src="{{asset('img/dotted.png')}}">
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 col-sm-4">
                             <div class="circle-2"><span>Ascites</span></div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 col-sm-4">
                             <div class="circle-2"><span>Hepatorena lsyndrome with spontaneous bacterial peritonitis</span></div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 col-sm-4">
                             <div class="circle-2"><span>Post paracentesis circulatory dysfunction (PCD)</span></div>
                         </div>
                     </div>
@@ -259,37 +259,37 @@
             </div>
             <div class="row">
                 <div class="col-md-6">
-                   <div class="table-responsive">
-	<table class="table">
-		<thead>
-			<tr>
-			  <th>Morbidity </th>
-			  <th>Odds Ratio (95% CI)</th>                                          
-			</tr>
-		</thead>   
-		<tbody>
-			<tr>
-				<td>Ascites recurrence</td>
-				<td>0.85 (0.61 -1 .18)</td>                          
-			</tr>
-			<tr>
-				<td>Renal impairment </td>
-				<td>0.83 (0.49-1.42) </td>                          
-			</tr>
-			<tr>
-				<td>Hepatic encephalopathy </td>
-				<td>0.91 (0.50-1.66) </td>                          
-			</tr>
-			<tr>
-				<td>Portal hypertensive bleeding</td>
-				<td>0.97 (0.45-2.11) </td>                          
-			</tr>
-			<tr>
-				<td>Hospital readmission </td>
-				<td>0.81 (0.561.18) </td>                          
-			</tr>
-		</tbody>
-	</table>
+                   <div class="table-responsive morbidityTbl">
+    <table class="table">
+        <thead>
+            <tr>
+              <th>Morbidity </th>
+              <th>Odds Ratio (95% CI)</th>                                          
+            </tr>
+        </thead>   
+        <tbody>
+            <tr>
+                <td>Ascites recurrence</td>
+                <td>0.85 (0.61 -1 .18)</td>                          
+            </tr>
+            <tr>
+                <td>Renal impairment </td>
+                <td>0.83 (0.49-1.42) </td>                          
+            </tr>
+            <tr>
+                <td>Hepatic encephalopathy </td>
+                <td>0.91 (0.50-1.66) </td>                          
+            </tr>
+            <tr>
+                <td>Portal hypertensive bleeding</td>
+                <td>0.97 (0.45-2.11) </td>                          
+            </tr>
+            <tr>
+                <td>Hospital readmission </td>
+                <td>0.81 (0.561.18) </td>                          
+            </tr>
+        </tbody>
+    </table>
 </div>
                     <p>In a meta-analysis of prospective studies of albumin therapy in LVP. albumin treatment was associated with 1 5-19% reductions in the odds of particular morbidity endpoints, compared with control treatments. 'LVP: patients undergoing large-volume paracentesis; "Alternative treatments investigated in the meta-analysis were dextran, gelatin, HES, and hypertonic saline. </p>
                 </div>
@@ -382,37 +382,37 @@
                 <p>-Address hypoalbuminemia (serum albumin concentration ( 34 g/L). </p>
                 <p>-Interrupt the pathological processes that lead to multi-organ failure. </p>
                 <div class="table-responsive">
-	<table class="table">
-		<thead>
-			<tr>
-			  <th>Albumin in the Intensive Careen.<sup>11,12</sup></th>
-			  <th>5%</th>
-			  <th>20%</th>                                          
-			</tr>
-		</thead>   
-		<tbody>
-			<tr>
-				<td>Hypovolemia, absence of adequate or excessive hydration	</td>
-				<td>X</td>
-				<td>X<sup>a</sup></td>                                      
-			</tr>
-			<tr>
-				<td>Hypovolemia (long-standing) with hypoalbuminemia, adequate hydration or edema	</td>
-				<td></td>
-				<td></td>                                      
-			</tr>
-			<tr>
-				<td>Hypovolemia with significant plasma volume deficits	</td>
-				<td>X<sup>B</sup></td>             
-				<td>X</td>                                      
-			</tr>
-			<tr>
-				<td>Hypoalbuminemia	</td>
-				<td>X</td>             
-				<td>X</td>                                      
-			</tr>
-		</tbody>
-	</table>
+    <table class="table">
+        <thead>
+            <tr>
+              <th>Albumin in the Intensive Careen.<sup>11,12</sup></th>
+              <th>5%</th>
+              <th>20%</th>                                          
+            </tr>
+        </thead>   
+        <tbody>
+            <tr>
+                <td>Hypovolemia, absence of adequate or excessive hydration </td>
+                <td>X</td>
+                <td>X<sup>a</sup></td>                                      
+            </tr>
+            <tr>
+                <td>Hypovolemia (long-standing) with hypoalbuminemia, adequate hydration or edema   </td>
+                <td></td>
+                <td></td>                                      
+            </tr>
+            <tr>
+                <td>Hypovolemia with significant plasma volume deficits </td>
+                <td>X<sup>B</sup></td>             
+                <td>X</td>                                      
+            </tr>
+            <tr>
+                <td>Hypoalbuminemia </td>
+                <td>X</td>             
+                <td>X</td>                                      
+            </tr>
+        </tbody>
+    </table>
 </div>
                 <p><strong>-Dilute 20% albumin with crystalloid solutions;</strong></p>
                 <p><strong>prefer to prescribing information for precautions.</strong></p>
@@ -433,60 +433,60 @@
                 <p>-Address hypoalbuminemia (serum albumin concentration ( 34 g/L). </p>
                 <p>-Interrupt the pathological processes that lead to multi-organ failure. </p>
                 <div class="table-responsive">
-	<table class="table">
-		<thead>
-			<tr>
-			  <th>Indication</th>
-			  <th>Concentration</th>
-			  <th>Fluid regimen</th>                                          
-			  <th>Duration</th>                                          
-			</tr>
-		</thead>   
-		<tbody>
-			<tr>
-				<td>Acute illness. volume replacement	</td>
-				<td>5%</td>
-				<td>250-500 ml in older children and adults 12</td>                                      
-				<td>30 minute intervals if response inadequate 12</td>                                      
-			</tr>
-			<tr>
-				<td>Burns. resuscitation phase after 24 hours</td>
-				<td>20%</td>
-				<td> 100-200 ml in adults<sup>11</sup> - 2.5 to 5 ml per kg body weight in children<sup>11</sup></td>                                      
-				<td>1 5-30 minute intervals until adequate response<sup>11</sup></td>                                      
-			</tr>
-			<tr>
-				<td>Burns, post-resuscitation phase	</td>
-				<td>5%, 20%</td>             
-				<td>I-2 g/kg/die <sup>16</sup></td>                                      
-				<td>Dependent on treatment response<sup>12</sup></td>                                      
-			</tr>
-			<tr>
-				<td>Cardiopulmonary bypass priming</td>
-				<td>20%</td>             
-				<td>200-400 ml (40-80 g)<sup>17</sup></td>                                      
-				<td>Dependent on treatment response<sup>12</sup></td>                                      
-			</tr>
-			<tr>
-				<td>Hypoalbuminemia	</td>
-				<td>5%. 20%	</td>             
-				<td>	Dose (g) : (2.5 g/dL-actual albumin concentration) x (kg x (0.8))<sup>16</sup></td>                                      
-				<td>Daily dose should not exceed 2 g/Kg 12,14</td>                                      
-			</tr>
-			<tr>
-				<td>Large-volume paracentesis</td>
-				<td>20%</td>             
-				<td>5 g/L of fluid removed <sup>16</sup></td>                                      
-				<td>During LVP</td>                                      
-			</tr>
-			<tr>
-				<td>Therapeutic plasmapheresis	</td>
-				<td>5%</td>             
-				<td>500 mL-1000 ml (25-50 g) <sup>16</sup></td>                                      
-				<td>Once</td>                                      
-			</tr>
-		</tbody>
-	</table>
+    <table class="table">
+        <thead>
+            <tr>
+              <th>Indication</th>
+              <th>Concentration</th>
+              <th>Fluid regimen</th>                                          
+              <th>Duration</th>                                          
+            </tr>
+        </thead>   
+        <tbody>
+            <tr>
+                <td>Acute illness. volume replacement   </td>
+                <td>5%</td>
+                <td>250-500 ml in older children and adults 12</td>                                      
+                <td>30 minute intervals if response inadequate 12</td>                                      
+            </tr>
+            <tr>
+                <td>Burns. resuscitation phase after 24 hours</td>
+                <td>20%</td>
+                <td> 100-200 ml in adults<sup>11</sup> - 2.5 to 5 ml per kg body weight in children<sup>11</sup></td>                                      
+                <td>1 5-30 minute intervals until adequate response<sup>11</sup></td>                                      
+            </tr>
+            <tr>
+                <td>Burns, post-resuscitation phase </td>
+                <td>5%, 20%</td>             
+                <td>I-2 g/kg/die <sup>16</sup></td>                                      
+                <td>Dependent on treatment response<sup>12</sup></td>                                      
+            </tr>
+            <tr>
+                <td>Cardiopulmonary bypass priming</td>
+                <td>20%</td>             
+                <td>200-400 ml (40-80 g)<sup>17</sup></td>                                      
+                <td>Dependent on treatment response<sup>12</sup></td>                                      
+            </tr>
+            <tr>
+                <td>Hypoalbuminemia </td>
+                <td>5%. 20% </td>             
+                <td>    Dose (g) : (2.5 g/dL-actual albumin concentration) x (kg x (0.8))<sup>16</sup></td>                                      
+                <td>Daily dose should not exceed 2 g/Kg 12,14</td>                                      
+            </tr>
+            <tr>
+                <td>Large-volume paracentesis</td>
+                <td>20%</td>             
+                <td>5 g/L of fluid removed <sup>16</sup></td>                                      
+                <td>During LVP</td>                                      
+            </tr>
+            <tr>
+                <td>Therapeutic plasmapheresis  </td>
+                <td>5%</td>             
+                <td>500 mL-1000 ml (25-50 g) <sup>16</sup></td>                                      
+                <td>Once</td>                                      
+            </tr>
+        </tbody>
+    </table>
 </div>
 
                 <p><small>LVP z lange volume paracentesiS CVP : central vetoes pressure; PAWP pulmonary aaerial w-edge procure; PCWP pukvtonarycapilbry wedge pressure. </small>

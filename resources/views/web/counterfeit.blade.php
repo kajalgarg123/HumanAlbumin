@@ -4,7 +4,7 @@
 <div data-spy="scroll" data-target="#navbar">
     <div class="main-clinical-1">
 		<div class="counterfeit-banner">
-			<div class="container">
+			<div class="">
 				<div class="row">
 					<div class="col-md-12">
 						<div class="scp-text">
