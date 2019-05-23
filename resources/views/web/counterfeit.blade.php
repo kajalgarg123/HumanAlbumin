@@ -47,10 +47,10 @@
 				<div class="section-headline references">
 					<p>Blackstone, EA. et al., Am Health Drug Benefits, 2014;7(4):216-224.</p>
 					<ol class="references">
-						<li>WHO-Substandard and Falsified (SF) Medical Products. <a href="http://www.who.int/medicines/regulation/ssffc/en/">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
-						<li>EMA-Falsified medicines.<a href="http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp. </a>Accessed September 21, 2017.</li>
+						<li>WHO-Substandard and Falsified (SF) Medical Products. <a href="http://www.who.int/medicines/regulation/ssffc/en/" target="_blank">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
+						<li>EMA-Falsified medicines.<a href="http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp" target="_blank">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp. </a>Accessed September 21, 2017.</li>
 						<li>Correct active ingredient but wrong proportions</li>
-						<li>FDA-Counterfeit Medicine.<a href="https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017.</li>
+						<li>FDA-Counterfeit Medicine.<a href="https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm" target="_blank">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017.</li>
 					</ol>
 				</div>
 			</div>
@@ -82,10 +82,10 @@
 				<div class="section-headline">
 					<p>Blackstone, EA. et al., Am Health Drug Benefits, 2014;7(4):216-224.</p>
 					<ol class="references">
-						<li>WHO-Substandard and Falsified (SF) Medical Products. <a href="http://www.who.int/medicines/regulation/ssffc/en/">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
-						<li>EMA-Falsified medicines.<a href="http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp. </a>Accessed September 21, 2017.</li>
+						<li>WHO-Substandard and Falsified (SF) Medical Products. <a href="http://www.who.int/medicines/regulation/ssffc/en/" target="_blank">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
+						<li>EMA-Falsified medicines.<a href="http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp" target="_blank">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp. </a>Accessed September 21, 2017.</li>
 						<li>Correct active ingredient but wrong proportions</li>
-						<li>FDA-Counterfeit Medicine.<a href="https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017.</li>
+						<li>FDA-Counterfeit Medicine.<a href="https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm" target="_blank">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017.</li>
 					</ol>
 				</div>
 			</div>
@@ -118,8 +118,8 @@
 				<div class="section-headline">
 					<p>Blackstone, EA. et al., Am Health Drug Benefits, 2014;7(4):216-224.</p>
 					<ol class="references">
-						<li>WHO-Substandard and Falsified (SF) Medical Products. <a href="http://www.who.int/medicines/regulation/ssffc/en/">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
-						<li>FDA-Counterfeit Medicine.<a href="https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017.</li>
+						<li>WHO-Substandard and Falsified (SF) Medical Products. <a href="http://www.who.int/medicines/regulation/ssffc/en/" target="_blank">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
+						<li>FDA-Counterfeit Medicine.<a href="https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm" target="_blank">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017.</li>
 					</ol>
 				</div>
 			</div>
@@ -164,13 +164,13 @@
 			<div class="container">
 				<div class="section-headline">
 					<ol class="references">
-						<li>WHO-Substandard and Falsified (SF) Medical Products.<a href="http://www.who.int/medicines/regulation/ssffc/en/">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
-						<li>EMA-Falsified medicines.<a href="http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp.</a>Accessed September 21, 2017.</li>
-						<li>FDA-Counterfeit Medicine. <a href="https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017</li>
-						<li>EPVC.<a href="http://www.epvc.gov.eg/ http://www.epvc.gov.eg/">http://www.epvc.gov.eg/ http://www.epvc.gov.eg/ </a>Accessed November 1st ,2017.. </li>
-						<li>WHO-Substandard and Falsified (SF) Medical Products.<a href="http://www.who.int/medicines/regulation/ssffc/en/">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
-						<li>EMA-Falsified medicines. <a href="http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp.</a>Accessed September 21, 2017.</li>
-						<li>FDA-Counterfeit Medicine.<a href="https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm. </a>Accessed September 21, 2017.</li>
+						<li>WHO-Substandard and Falsified (SF) Medical Products.<a href="http://www.who.int/medicines/regulation/ssffc/en/" target="_blank">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
+						<li>EMA-Falsified medicines.<a href="http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp" target="_blank">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp.</a>Accessed September 21, 2017.</li>
+						<li>FDA-Counterfeit Medicine. <a href="https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm" target="_blank">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm.</a>Accessed September 21, 2017</li>
+						<li>EPVC.<a href="http://www.epvc.gov.eg/ http://www.epvc.gov.eg/" target="_blank">http://www.epvc.gov.eg/ http://www.epvc.gov.eg/ </a>Accessed November 1st ,2017.. </li>
+						<li>WHO-Substandard and Falsified (SF) Medical Products.<a href="http://www.who.int/medicines/regulation/ssffc/en/" target="_blank">http://www.who.int/medicines/regulation/ssffc/en/.</a>Accessed September 21, 2017.</li>
+						<li>EMA-Falsified medicines. <a href="http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp" target="_blank">http://www.ema.europa.eu/ema/index.jsp?curl=pages/special_topics/general/general_content_000186.jsp.</a>Accessed September 21, 2017.</li>
+						<li>FDA-Counterfeit Medicine.<a href="https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm" target="_blank">https://www.fda.gov/drugs/resourcesforyou/consumers/buyingusingmedicinesafely/counterfeitmedicine/default.htm. </a>Accessed September 21, 2017.</li>
 					</ol>
 				</div>
 			</div>
@@ -345,10 +345,10 @@
 					<div class="section-headline">
 						<h2>Conclusions</h2>
 						<ul>
-							<li><i class="fa fa-circle" aria-hidden="true"></i>Report any suspicious activity to Shire Product Quality Complaints at <a href="http://www.PQC@shire.com">PQC@shire.com</a></li>
+							<li><i class="fa fa-circle" aria-hidden="true"></i>Report any suspicious activity to Shire Product Quality Complaints at <a href="http://www.PQC@shire.com" target="_blank">PQC@shire.com</a></li>
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Report any Adverse event to:</li>
-							<li><i class="fa fa-circle" aria-hidden="true"></i>Shire drug safety:<a href="http://www.drugsafety@shire.com"> drugsafety@shire.com</a> </li>
-							<li><i class="fa fa-circle" aria-hidden="true"></i>Egyptian PharmacoVigilance Center (EPVC) *:<a href="http://www.pv.center@eda.mohp.gov.eg"> pv.center@eda.mohp.gov.eg</a> </li>
+							<li><i class="fa fa-circle" aria-hidden="true"></i>Shire drug safety:<a href="http://www.drugsafety@shire.com" target="_blank"> drugsafety@shire.com</a> </li>
+							<li><i class="fa fa-circle" aria-hidden="true"></i>Egyptian PharmacoVigilance Center (EPVC) *:<a href="http://www.pv.center@eda.mohp.gov.eg" target="_blank"> pv.center@eda.mohp.gov.eg</a> </li>
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Contact Shire Medical Information at +1 866 424 6724</li>
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Shire Corporate Contacts:</li>
 							<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i>US Operational Headquarters: +1 617 349 0200</li>
