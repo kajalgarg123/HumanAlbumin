@@ -377,15 +377,15 @@
 			<h4>The Official registered Distributer for Baxter Human Albumin</h4>
 			<p>Multipharma:</p>
 			<ul class="multipharma">
-				<li>Tel: 0224182931</li>
+				<li>Tel: <a href="tel:0224182931"> 0224182931</a></li>
 				<li>Fax: 024141320 </li>
 				<li>Hot Line:16300</li>
-				<li>Email : tender@multipharma-eg.com</li>
+				<li>Email : <a href="mailto:tender@multipharma-eg.com"> tender@multipharma-eg.com</a></li>
 			</ul>
 			<p>Bio Egypt:</p>
 			<ul class="bio-egypt">
-				<li>Tel: 0223624442 - 0223624441</li>
-				<li>Email :info@bioegypt.net</li>
+				<li>Tel: <a href="tel:0223624442">0223624442</a> - <a href="tel:0223624441">0223624441</a></li>
+				<li>Email :<a href="mailto:info@bioegypt.net">info@bioegypt.net</a></li>
 			</ul>
 		</div>
 	</div>
