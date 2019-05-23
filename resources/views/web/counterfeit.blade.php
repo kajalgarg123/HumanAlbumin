@@ -363,11 +363,12 @@
 		<div class="container">
 			<div class="section-headline">
 				<ul>
-					<li><i class="fa fa-circle" aria-hidden="true"></i>EPVC contact information: </li>
-					<li><i class="fa fa-circle" aria-hidden="true"></i>Address: Egyptian Pharmaceutical Center (EPVC), Egyptian Drug Authority (EDA), 21 </li>
-					<li><i class="fa fa-circle" aria-hidden="true"></i>Abd EIAziz AI Soud Street. EI-Manial, Cairo, Egypt, PO Box: 11451</li>
-					<li><i class="fa fa-circle" aria-hidden="true"></i>Tel: (+2)02 25354100/ (+2)02 23684288/ (+2)02 23648046/ (+2)02 23640368/ (+2)02 23648769 Extension No: 1303,1311</li>
-					<li><i class="fa fa-circle" aria-hidden="true"></i>Fax: +2 02 23684194</li>
+					<h4>EPVC contact information: </h4>
+					<p>Address: Egyptian Pharmaceutical Center (EPVC), Egyptian Drug Authority (EDA), 21 </p>
+					<p>Abd EIAziz AI Soud Street. EI-Manial, Cairo, Egypt, PO Box: 11451</p>
+					<p>Tel: <a href="tel:02 25354100">(+2)02 25354100</a>/ <a href="tel:02 23684288">(+2)02 23684288</a>/ <a href="tel:02 23648046">(+2)02 23648046</a>/ <a href="tel:02 23640368">(+2)02 23640368</a>/ <a href="tel:02 23648769">(+2)02 23648769</a></p>
+					<p> Extension No: 1303,1311</p>
+					<p>Fax: +2 02 23684194</p>
 				</ul>
 			</div>
 		</div>
