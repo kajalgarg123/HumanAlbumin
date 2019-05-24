@@ -345,9 +345,9 @@
 					<div class="section-headline">
 						<h2>Conclusions</h2>
 						<ul>
-							<li><i class="fa fa-circle" aria-hidden="true"></i>Report any suspicious activity to Shire Product Quality Complaints at <a href="http://www.PQC@shire.com" target="_blank">PQC@shire.com</a></li>
+							<li><i class="fa fa-circle" aria-hidden="true"></i>Report any suspicious activity to Shire Product Quality Complaints at <a href="mailto:PQC@shire.com" >PQC@shire.com</a></li>
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Report any Adverse event to:</li>
-							<li><i class="fa fa-circle" aria-hidden="true"></i>Shire drug safety:<a href="http://www.drugsafety@shire.com" target="_blank"> drugsafety@shire.com</a> </li>
+							<li><i class="fa fa-circle" aria-hidden="true"></i>Shire drug safety:<a href="mailto:drugsafety@shire.com"> drugsafety@shire.com</a> </li>
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Egyptian PharmacoVigilance Center (EPVC) *:<a href="http://www.pv.center@eda.mohp.gov.eg" target="_blank"> pv.center@eda.mohp.gov.eg</a> </li>
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Contact Shire Medical Information at +1 866 424 6724</li>
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Shire Corporate Contacts:</li>
