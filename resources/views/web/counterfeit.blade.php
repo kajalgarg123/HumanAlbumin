@@ -349,10 +349,10 @@
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Report any Adverse event to:</li>
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Shire drug safety:<a href="mailto:drugsafety@shire.com"> drugsafety@shire.com</a> </li>
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Egyptian PharmacoVigilance Center (EPVC) *:<a href="http://www.pv.center@eda.mohp.gov.eg" target="_blank"> pv.center@eda.mohp.gov.eg</a> </li>
-							<li><i class="fa fa-circle" aria-hidden="true"></i>Contact Shire Medical Information at +1 866 424 6724</li>
+							<li><i class="fa fa-circle" aria-hidden="true"></i>Contact Shire Medical Information at <a href="tel:+1 866 424 6724">+1 866 424 6724</a></li>
 							<li><i class="fa fa-circle" aria-hidden="true"></i>Shire Corporate Contacts:</li>
-							<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i>US Operational Headquarters: +1 617 349 0200</li>
-							<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i>International Operational Headquarters: +41 (0) 41 288 40 00</li>
+							<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i>US Operational Headquarters: <a href="tel:+1 617 349 0200">+1 617 349 0200</a></li>
+							<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i>International Operational Headquarters: <a href="tel:+41 (0) 41 288 40 00">+41 (0) 41 288 40 00</a></li>
 						</ul>
 					</div>
 				</div>
