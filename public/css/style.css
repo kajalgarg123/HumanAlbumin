@@ -298,6 +298,9 @@ h2.title1 {
     text-transform: capitalize;
     border-bottom: 3px solid #fcb34c;
     padding-bottom: 15px;
+    min-height: 78px;
+    display: flex;
+    align-items: flex-end;
 }
 .team-content>h4, .team-content>p {
     color: #444;
