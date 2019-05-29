@@ -2,48 +2,24 @@
 
 @section('content')
 <div data-spy="scroll" data-target="#navbar">
-   <!-- <div id="home" class="slider-area">
-        <div class="bend niceties preview-2">
-            <div id="ensign-nivoslider" class="slides">
-                <img src="{{ asset('img/slider/slider1.png') }}" alt="" title="#slider-direction-1" />
-            </div>
-            <div id="slider-direction-1" class="slider-direction slider-one">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12 col-sm-12 col-xs-12">
-                            <div class="slider-content">
-                                <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                                    <h2 class="title1">About Takeda: Better Health, Brighter Future <br></h2>
-                                </div>
-                                <div class="layer-1-3 wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                                    <a class="ready-btn page-scroll" href="{{ url('spc-language') }}">Summary of Product Characteristics</a>
-                                </div>
-                            </div>
-                        </div>
+  <div class="home-banner">
+    <div class="">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="slider-content">
+                    <!-- layer 1 -->
+                    <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
+                        <h2 class="title1">About Takeda: Better Health, Brighter Future <br></h2>
+                    </div>
+                    <!-- layer 2 -->
+                    <div class="layer-1-3 wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+                        <a class="ready-btn page-scroll" href="{{ url('spc-language') }}">Summary of Product Characteristics</a>
                     </div>
                 </div>
             </div>
         </div>
-    </div> -->
-
-        <div class="home-banner">
-            <div class="">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="slider-content">
-                            <!-- layer 1 -->
-                            <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                                <h2 class="title1">About Takeda: Better Health, Brighter Future <br></h2>
-                            </div>
-                            <!-- layer 2 -->
-                            <div class="layer-1-3 wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                                <a class="ready-btn page-scroll" href="{{ url('spc-language') }}">Summary of Product Characteristics</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+    </div>
+</div>
     <div id="about" class="about-area area-padding">
         <div class="container">
             <div class="row">

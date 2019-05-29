@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-12 col-xs-12">
-					<img src="{{asset('img/sherlog.png')}}">
+					<img src="{{asset('img/takedalogo.jpg')}}">
                     <p>Part of the Takeda group</p>
 				</div>
                 <div class="col-md-9 col-sm-12 col-xs-12">
@@ -78,7 +78,7 @@
 					<div class="row">
 						<div class="col-md-12 col-sm-12 col-xs-12">
 							<div class="copyright text-center">
-								<p><span>Copyright © 2018. Human Albumin . All Rights Reserved.</span><a href="#">Terms & Condition</a><a href="#">Privacy Policy</a></p>
+								<p><span>Copyright © 2019. Human Albumin . All Rights Reserved.</span><a href="{{ url('/terms-condition') }}">Terms & Condition</a><a href="{{ url('/privacy_policy') }}">Privacy Policy</a></p>
 							</div>
 						</div>
 					</div>
@@ -87,6 +87,7 @@
 		</footer>
 		
     <!-- JavaScript Libraries -->
+    
     <script src="{{asset('lib/jquery/jquery.min.js')}}"></script>
     <script src="{{asset('lib/bootstrap/js/bootstrap.min.js')}}"></script>
     <script src="{{asset('lib/wow/wow.min.js')}}"></script>

@@ -24,6 +24,8 @@ Route::get('faq' , 'PagesController@faq');
 Route::get('blog' , 'PagesController@blog');
 Route::get('career' , 'PagesController@career');
 Route::get('blank' , 'PagesController@blank');
+Route::get('privacy_policy' , 'PagesController@privacy_policy');
+Route::get('terms-condition' , 'PagesController@term_condition');
 
 Auth::routes();
 

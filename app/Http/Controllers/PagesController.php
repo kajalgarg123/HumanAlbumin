@@ -64,4 +64,14 @@ class PagesController extends Controller
 		return view('web.blank');
 	}
 
+	public function privacy_policy()
+	{
+		return view('web.privacy-policy');
+	}
+
+	public function term_condition()
+	{
+		return view('web.terms-conditions');
+	}
+
 }
